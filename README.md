@@ -1,172 +1,116 @@
-[![Python package](https://github.com//actions/workflows/python-package.yml/badge.svg)](https://github.com//actions/workflows/python-package.yml)
 
-[![Documentation Status](https://readthedocs.com/projects/inductiva-research-labs-/badge/?version=latest&token=a7a7344c5bc9e511ca715449f94612e4bb7c2dff4c90931778b9c85dbbf5480c)](https://inductiva-research-labs-.readthedocs-hosted.com/en/latest/?badge=latest)
+# Inductiva.AI Documentation Repository
 
-# Start a project
+This repository contains all the documentation and static assets for **Inductiva.AI**. It is structured to support multiple simulators, tutorials, FAQs, webinars, and other resources. The content is organized so that it can be directly used to generate a structured website.
 
-Use this template to generate a repository for your new project. By doing so you
-will quickly have access to a couple of tools we've already set up for you.
+---
 
-## Python
+## Repository Structure
 
-We love Python! To make our lives easier and write good code we follow a couple
-of common best practices:
-
-* For local development we recommend using Python's virtual environments. This
-  way you can keep a separate environment for each project without polluting
-  your operating system with additional Python packages. We also recommend using
-  `pip` for managing those packages.
-
-  To create a new virtual environment (only once):
-
-  ```bash
-  python3 -m venv .env
-  ```
-
-  To activate your virtual environment (every time you want to work on the
-  current project):
-
-  ```bash
-  source .env/bin/activate 
-  ```
-
-  It's always a good practice to upgrade `pip` when you create the virtual environment, before installing other packages. In the past we've noticed some
-  bugs with older versions of `pip`, causing the installation of incompatible
-  versions of several packages.
-
-  ```bash
-  pip install --upgrade pip
-  ```
-
-  To install the project's required packages (whenever dependencies must be
-  updated):
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-* We follow
-  [Google's style guide](https://google.github.io/styleguide/pyguide.html).
-  Specifically, we format code with `yapf`, and check for bugs and style
-  problems with `pylint`.
-
-  Usually, there's no need to run these tools manually. We added continuous
-  integration (CI) through GitHub, so every time your pull request has errors
-  you'll be alerted via email. Over time you'll get used to these rules and
-  coding consistently will become second nature.
-
-  However, if you want to run `yapf` and `pylint` locally, simply install them
-  via `pip`:
-
-  ```bash
-  pip install yapf pylint
-  ```
-
-* We write tests using `pytest`. See [`example_test.py`](example_test.py) for an
-  example and delete if example after you copied the template to your new
-  project.
-
-  Tests are also run automatically in GitHub via continuous integration. If you
-  want to run them locally, install `pytest`:
-
-  ```bash
-  pip install pytest
-  ```
-
-  and run:
-
-  ```bash
-  pytest
-  ```
-
-  in your base directory.
-
-  `pytest` is smart enough to discover your tests automatically when you're
-  following
-  [the right conventions](https://docs.pytest.org/en/stable/goodpractices.html#conventions-for-python-test-discovery). At Inductiva we'd prefer that any
-  test file (e.g. `example_test.py`) stays in the same directory next to the
-  component it tests (e.g. `example.py`).
-
-## Documentation
-
-We use [Sphinx](https://www.sphinx-doc.org/) to generate documentation to our
-projects. The documentation files can be written using either Markdown or
-reStructuredText syntax and are stored in the `docs` directory. See
-[`docs/index.md`](docs/index.md) for a collection of simple examples to get you
-started including math formulas and code snippets in your documentation.
-
-If you want to generate the documentation locally, simply install the
-dependencies via `pip`:
-
-```bash
-pip install -r docs/requirements.txt
-```
-
-and run
-
-```bash
-sphinx-build -b html docs docs/_build
-```
-
-in your base directory to build the documentation in `docs/_build`.
-
-To serve the documentation locally and automatically build it with new changes,
-install the `sphinx-autobuild` package,
-
-```bash
-pip install sphinx-autobuild
-```
-
-and run in your base directory
-
-```bash
-sphinx-autobuild -b html docs docs/_build
-```
-
-This will serve the documentation at <http://127.0.0.1:8000> and automatically
-update it when you save changes to the documentation files.
-
-The documentation may also be made available on
-[Read The Docs](https://readthedocs.org/) for configured repositories. When set
-up, this integration will build and deploy the documentation on each commit to
-the `main` branch.
-
-See the documentation for the start-a-project repo at:
-
-https://inductiva-research-labs-start-a-project.readthedocs-hosted.com/en/latest/
-
-Apart from documentation files, we also prepare README files using Markdown
-syntax to present short introductions of the projects. This README is one such
-example.
-
-
-## Conda Environments
-
-To automate all the setup commands above, we have created a Conda
-environment config file that you can use for your convenience.
-
-Make sure the first line of the conda.yml file contains a name related to 
-your project, such as:
+The repository is divided into two main folders:
 
 ```
-name: startaproject_env
+
+/docs    -> All Markdown documentation files
+/public  -> All static files needed by the Markdown files (images, gifs, etc.)
+
 ```
 
-Note: If you are starting a new project from this template repo, it might work 
-automatically for you, because we use the placeholder `name: {{GITHUB_REPOSITORY#*/}}`
-that gets auto-filled with the repo name.
+Both folders follow the same structure by simulator:
 
-Now, if you have conda installed, just run:
-
-```bash
-conda env create -f conda.yml
 ```
 
-This will install python 3.11, pylint, yapf, pytest, sphinx, and all the 
-package requirements, and you can now activate that environment with:
+/docs/<simulator>
+/public/<simulator>
 
-```bash
-conda activate startaproject_env
 ```
 
-And you are good to go!
+### Example:
+
+```
+
+docs/openfoam/
+├── 0.versions-and-containers.md
+├── 1.tutorials
+│   ├── 0.setup-test.md
+│   ├── 1.quick-start.md
+│   ├── convert-allrun-script-into-python-commands.md
+│   ├── generate-wind-tunnel-dataset
+│   │   ├── index.md
+│   │   └── sections
+│   │       ├── section1.md
+│   │       ├── section2.md
+│   │       ├── section3.md
+│   │       ├── section4.md
+│   │       ├── section5.md
+│   │       └── section6.md
+│   ├── mpi-cluster-tutorial.md
+│   ├── openfoam-mpi-setup
+│   │   ├── openfoam-behaviour.md
+│   │   └── sections
+│   │       ├── openfoam-esi.md
+│   │       └── openfoam-foundation.md
+│   └── run-occdrivaerstaticmesh-case
+│       ├── index.md
+│       └── sections
+│           ├── section1.md
+│           ├── section2.md
+│           ├── section3.md
+│           └── section4.md
+├── 2.faq
+│   └── faq.md
+├── 3.webinars
+│   ├── openfoam-cfd-dataset.md
+│   └── openfoam-video-tutorial.md
+└── index.md
+
+```
+
+---
+
+## Documentation Guidelines
+
+### Index Files
+
+- Each simulator folder must have an `index.md` file.  
+- Each subfolder inside /docs/simulator represents a submenu in the website and should also have an `index.md` file.
+
+### Menu Structure
+
+- Subfolders inside a simulator folder create **submenus** on the final website.  
+- Files inside each folder (or subfolder) will automatically be displayed in the submenu.
+
+### Controlling Menu Order
+
+The website sorts menu entries **alphabetically by filename**. To enforce a custom order:
+
+- Prefix filenames with numbers: `1.filename.md`, `2.filename.md`, etc.  
+- The prefix will **not** appear in the URL; it is only used for sorting the menu.
+
+Example:
+
+```
+
+1.quick-start.md
+2.advanced-setup.md
+
+```
+
+This ensures `quick-start` appears before `advanced-setup` in the menu.
+
+---
+
+## Public Folder Guidelines
+
+- All static assets (images, gifs, videos, etc.) referenced in the Markdown files should be placed under `/public/<simulator>`.  
+- The folder structure in `/public` should should be similar to `/docs` just to keep things organized, but its not mandatory. If many markdowns share an asset it can be placed in a common folder inside public.
+
+---
+
+
+## Notes
+
+* The numbering prefix in filenames is **optional** but recommended to control menu order.
+* Nested folders in tutorials or other submenus will automatically be displayed in the final website menu hierarchy.
+
+---
