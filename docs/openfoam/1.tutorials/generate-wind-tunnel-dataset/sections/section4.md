@@ -161,7 +161,7 @@ your command line interface `inductiva tasks list -p openfoam_dataset`
 
 Alternatively, you can also check the tasks projects in the [Inductiva Web Console](https://console.inductiva.ai/) on the *Projects* tab:
 
-![console project](../../_static/console_projects.png)
+![console project](openfoam/console_projects.png)
 
 ## Summary
 We demonstrated how Inductiva can be used to efficiently run multiple OpenFOAM simulations in parallel and generate a dataset. 

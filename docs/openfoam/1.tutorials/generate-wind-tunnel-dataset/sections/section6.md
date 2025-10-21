@@ -3,7 +3,7 @@ We successfully generated an OpenFOAM dataset in parallel by sampling the wind s
 This demonstrates the power of using cloud resources to efficiently scale up computational experiments. 
 Now it's time to retrieve all the results and analyze the data to extract meaningful insights from our simulations.
 
-<p align="center"><img src="../../_static/bike_streamlines_U.png" alt="OpenFOAM simulation visualization" width="700"></p>
+<p align="center"><img src="openfoam/bike_streamlines_U.png" alt="OpenFOAM simulation visualization" width="700"></p>
 
 ## Project Summary and Output Download
 Using the Inductiva package, it is easy to get a project summary and download all the output files. The following code snippet demonstrates how to do this:

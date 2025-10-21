@@ -9,7 +9,7 @@ and accelerate the generation of CFD data for further study or integration into 
 > This guide is also available as a [webinar replay](../webinars/openfoam-cfd-dataset.md) where we walk through running **OpenFOAM on Inductiva** step by step.  
 > [Watch it to see the process in action!](../webinars/openfoam-cfd-dataset.md)
 
-<p align="center"><img src="../_static/bike_pressure_field.png" alt="OpenFOAM motorBike visualization" width="700"></p>
+<p align="center"><img src="openfoam/bike_pressure_field.png" alt="OpenFOAM motorBike visualization" width="700"></p>
 
 To demonstrate this process, we will use the incompressible, steady-state simpleFoam solver along with 
 the **motorBike example**, which is available in the OpenFOAM repository.

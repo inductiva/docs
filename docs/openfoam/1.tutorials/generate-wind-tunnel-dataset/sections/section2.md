@@ -66,9 +66,9 @@ Learn more about costs at: https://inductiva.ai/guides/how-it-works/basics/how-m
 You can also visit the [Inductiva Web Console](https://console.inductiva.ai/) to view task details, navigate 
 the task the filesystem, and monitor logs in real time.
 
-![console timeline](../../_static/console_timeline.png)
+![console timeline](openfoam/console_timeline.png)
 
-![console logs](../../_static/console_logs.png)
+![console logs](openfoam/console_logs.png)
 
 In the next part of this tutorial, we'll take things to the next level by running dozens of OpenFOAM simulations in parallel on Inductiva, demonstrating the true power of cloud-based scalability. Stay tuned!
 
