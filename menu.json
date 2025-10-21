@@ -9,135 +9,135 @@
       "children": [
         {
           "title": "AMR-Wind",
-          "path": "amr-wind/index"
+          "path": "amr-wind/"
         },
         {
           "title": "CalculiX",
-          "path": "calculix/index"
+          "path": "calculix/"
         },
         {
           "title": "CaNS",
-          "path": "cans/index"
+          "path": "cans/"
         },
         {
           "title": "CM1",
-          "path": "cm1/index"
+          "path": "cm1/"
         },
         {
           "title": "COAWST",
-          "path": "coawst/index"
+          "path": "coawst/"
         },
         {
           "title": "CP2K",
-          "path": "cp2k/index"
+          "path": "cp2k/"
         },
         {
           "title": "Delft3D",
-          "path": "delft3d/index"
+          "path": "delft3d/"
         },
         {
           "title": "DualSPHysics",
-          "path": "dualsphysics/index"
+          "path": "dualsphysics/"
         },
         {
           "title": "Elmer",
-          "path": "elmer/index"
+          "path": "elmer/"
         },
         {
           "title": "FDS",
-          "path": "fds/index"
+          "path": "fds/"
         },
         {
           "title": "FreeFEM",
-          "path": "freefem/index"
+          "path": "freefem/"
         },
         {
           "title": "FUNWAVE",
-          "path": "funwave/index"
+          "path": "funwave/"
         },
         {
           "title": "FVCOM",
-          "path": "fvcom/index"
+          "path": "fvcom/"
         },
         {
           "title": "GROMACS",
-          "path": "gromacs/index"
+          "path": "gromacs/"
         },
         {
           "title": "GX",
-          "path": "gx/index"
+          "path": "gx/"
         },
         {
           "title": "HEC-RAS",
-          "path": "hec-ras/index"
+          "path": "hec-ras/"
         },
         {
           "title": "NWChem",
-          "path": "nwchem/index"
+          "path": "nwchem/"
         },
         {
           "title": "Octopus",
-          "path": "octopus/index"
+          "path": "octopus/"
         },
         {
           "title": "OpenFAST",
-          "path": "openfast/index"
+          "path": "openfast/"
         },
         {
           "title": "OpenFOAM",
-          "path": "openfoam/index"
+          "path": "openfoam/"
         },
         {
           "title": "OpenSees",
-          "path": "opensees/index"
+          "path": "opensees/"
         },
         {
           "title": "OpenTelemac",
-          "path": "opentelemac/index"
+          "path": "opentelemac/"
         },
         {
           "title": "Quantum ESPRESSO",
-          "path": "quantumespresso/index"
+          "path": "quantumespresso/"
         },
         {
           "title": "REEF3D",
-          "path": "reef3d/index"
+          "path": "reef3d/"
         },
         {
           "title": "SCHISM",
-          "path": "schism/index"
+          "path": "schism/"
         },
         {
           "title": "SFINCS",
-          "path": "sfincs/index"
+          "path": "sfincs/"
         },
         {
           "title": "SNL-SWAN",
-          "path": "snl-swan/index"
+          "path": "snl-swan/"
         },
         {
           "title": "SPlisHSPlasH",
-          "path": "splishsplash/index"
+          "path": "splishsplash/"
         },
         {
           "title": "SWAN",
-          "path": "swan/index"
+          "path": "swan/"
         },
         {
           "title": "SWASH",
-          "path": "swash/index"
+          "path": "swash/"
         },
         {
           "title": "WAVEWATCH III",
-          "path": "wavewatch3/index"
+          "path": "wavewatch3/"
         },
         {
           "title": "WRF",
-          "path": "wrf/index"
+          "path": "wrf/"
         },
         {
           "title": "XBeach",
-          "path": "xbeach/index"
+          "path": "xbeach/"
         }
       ]
     }
@@ -148,31 +148,31 @@
       "children": [
         {
           "title": "The Building Blocks",
-          "path": "how-it-works/building-blocks/index"
+          "path": "how-it-works/building-blocks/"
         },
         {
           "title": "Get Started",
-          "path": "how-it-works/get-started/index"
+          "path": "how-it-works/get-started/"
         },
         {
           "title": "Costs and Quotas",
-          "path": "how-it-works/basics/index"
+          "path": "how-it-works/basics/"
         },
         {
           "title": "Tasks",
-          "path": "how-it-works/tasks/index"
+          "path": "how-it-works/tasks/"
         },
         {
           "title": "Computational Resources",
-          "path": "how-it-works/machines/index"
+          "path": "how-it-works/machines/"
         },
         {
           "title": "Machine-Simulation Fit",
-          "path": "how-it-works/machine_simulation/index"
+          "path": "how-it-works/machine_simulation/"
         },
         {
           "title": "Cloud Storage",
-          "path": "how-it-works/cloud-storage/index"
+          "path": "how-it-works/cloud-storage/"
         }
       ]
     },
@@ -181,19 +181,19 @@
       "children": [
         {
           "title": "Parallel Simulations",
-          "path": "scale-up/parallel-simulations/index"
+          "path": "scale-up/parallel-simulations/"
         },
         {
           "title": "Projects",
-          "path": "scale-up/projects/index"
+          "path": "scale-up/projects/"
         },
         {
           "title": "Save Costs",
-          "path": "scale-up/save-costs/index"
+          "path": "scale-up/save-costs/"
         },
         {
           "title": "Recipes",
-          "path": "scale-up/recipes/index"
+          "path": "scale-up/recipes/"
         },
         {
           "title": "Generate Dataset",
@@ -201,7 +201,7 @@
         },
         {
           "title": "Benchmarks",
-          "path": "scale-up/benchmark/index"
+          "path": "scale-up/benchmark/"
         }
       ]
     },
@@ -210,15 +210,15 @@
       "children": [
         {
           "title": "Bring Your Own Software",
-          "path": "expand/bring-your-own-software/index"
+          "path": "expand/bring-your-own-software/"
         },
         {
           "title": "Bring Your Own Hardware",
-          "path": "expand/use-local-task-runner/index"
+          "path": "expand/use-local-task-runner/"
         },
         {
           "title": "Bring Your Own Cloud",
-          "path": "expand/bring-your-own-cloud/index"
+          "path": "expand/bring-your-own-cloud/"
         }
       ]
     },
@@ -227,11 +227,11 @@
       "children": [
         {
           "title": "Command Line Interface",
-          "path": "api-functions/cli/index"
+          "path": "api-functions/cli/"
         },
         {
           "title": "Python Client",
-          "path": "api-functions/api/index"
+          "path": "api-functions/api/"
         }
       ]
     }
