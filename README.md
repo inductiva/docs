@@ -114,3 +114,15 @@ This ensures `quick-start` appears before `advanced-setup` in the menu.
 * Nested folders in tutorials or other submenus will automatically be displayed in the final website menu hierarchy.
 
 ---
+
+## How to add new simulators to the menu
+
+In order to add a new simulator to the simulators menu a new entry needs to be added to the file `menu.json`.
+Keep in mind that title will be the text shown in the menu and the top left corner of the simulator documentation page and the path is the path to the simulator folder in reference to docs/. Meaning, for OpenFOAM this is the entry that needs to be added:
+
+```
+        {
+          "title": "OpenFOAM",
+          "path": "openfoam/"
+        },
+```
