@@ -1,12 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Generate a Dataset
+navigation:
+  show: true
 description: ""
 seo:
  title: “”
  description: “”
 ---
 
-# Generate a Dataset
 Generating synthetic data with the Inductiva API is a structured process that begins with a base simulation model and scales to thousands of variations, producing a diverse and robust dataset.
 
 The typical workflow includes the following steps:
@@ -16,7 +17,7 @@ Start by preparing the configuration files for a base case simulation model of t
 
 2. **Generalize the Base Case**
 Generalize the configuration files to allow variations of the base case. 
-Our [Templating System](https://inductiva.ai/guides/scale-up/parallel-simulations/templating) enables dynamic substitution 
+Our [Templating System](/guides/parallel-simulations/templating) enables dynamic substitution 
 of variables at runtime, making it easy to modify simulation (hyper)parameters through Python. This supports 
 both exhaustive and randomized exploration of the configuration space.
 
@@ -30,12 +31,11 @@ Whether you're a Machine Learning engineer or a simulation expert, the Inductiva
 **Ready to dive in?** 
 
 Explore these hands-on tutorials to jumpstart your journey:
-- [Generate an OpenFOAM Dataset](https://inductiva.ai/guides/openfoam/generate-wind-tunnel-dataset/index)  
-- [Create Synthetic Data for Physics-Informed ML](https://inductiva.ai/guides/splishsplash/synthetic-data-for-piml/index)
+- [Generate an OpenFOAM Dataset](/guides/openfoam/generate-wind-tunnel-dataset/)  
+- [Create Synthetic Data for Physics-Informed ML](/guides/splishsplash/synthetic-data-for-piml/)
 
 Or, if you prefer to read, check out our blog post:
 - [SimuStruct Dataset (0.1)](https://inductiva.ai/blog/article/simustruct-dataset)
 
-```{banner}
-:origin: recipe_generate_dataset
-```
+::docsbanner
+::
