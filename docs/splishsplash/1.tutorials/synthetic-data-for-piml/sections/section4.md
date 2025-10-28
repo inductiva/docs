@@ -1,4 +1,11 @@
-# Generate the Dataset
+---
+title: Generate the Dataset
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 In the previous sections, we built a base SPH simulation using **SPlisHSPlasH**, used the template system to configure simulation parameters to reflect real-world variability, and demonstrated how easy it is to run multiple simulations in parallel to explore a wide range of parameters.
 
 In this final section, we’ll put all of that into practice and show you how to scale up to generate synthetic data in bulk.
@@ -139,8 +146,7 @@ Estimated total computation cost: 2.55 US$
 
 From the output, we can see that the project contains **400 tasks**, all **successfully completed**, with an estimated total computation cost of **2.55 US$**.
 
-To discover how to generate visualizations for each simulation and bring your dataset to life, proceed to the next section: **[Visualize the Results](../../visualization/index.md)**.
+To discover how to generate visualizations for each simulation and bring your dataset to life, proceed to the next section: **[Visualize the Results](../../../2.visualization/vis-with-python)**.
 
-```{banner}
-:origin: splishsplash
-```
+::docsbanner
+::

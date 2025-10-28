@@ -1,9 +1,16 @@
-# Visualizing Your Simulation Results
-After running the 400 simulations in [Generate the Dataset](../synthetic-data-for-piml/sections/section4.md), it’s time to download and visualize the results.
+---
+title: Visualizing Your Simulation Results
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
+After running the 400 simulations in [Generate the Dataset](../../1.tutorials/synthetic-data-for-piml/sections/section4), it’s time to download and visualize the results.
 
 To simplify the process, we’ve provided a few helper scripts.
 
-<p align="center"><img src="../_static/single_sim.gif" alt="Visualization of one simulation" width="600"></p>
+![Visualization of one simulation](splishsplash/single_sim.gif)
 
 ## Step 1: Download the Simulation Results
 Start by downloading the results from the cloud using the following command:

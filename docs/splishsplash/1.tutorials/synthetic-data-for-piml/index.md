@@ -1,7 +1,12 @@
-# Generate Synthetic Data for Physics-Informed ML
+---
+title: Generate Synthetic Data for Physics-Informed ML
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
-<p align="center"><img src="../_static/combined_all_small.gif" alt="Visualization of all simulations" width="500"></p>
-
+![Visualization of all simulations](splishsplash/combined_all_small.gif)
 
 Training Physics-Informed Machine Learning (PIML) models often requires large, diverse datasets that reflect real-world physical behavior. However, collecting such data through experiments or high-resolution simulations can be time-consuming and expensive. That’s where **synthetic data generation** becomes essential.
 
@@ -22,14 +27,5 @@ In the following sections, you’ll learn how to:
 
 Whether you're a Machine Learning engineer or a simulation expert, this tutorial offers a practical, scalable workflow for generating your own synthetic datasets to power Physics-informed ML models.
 
-```{banner_small}
-:origin: splishsplash
-```
-
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-```
+::docsbannersmall
+::

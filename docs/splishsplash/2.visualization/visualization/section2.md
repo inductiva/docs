@@ -1,9 +1,16 @@
-# Visualizing Multiple Simulations in a Single Animation
+---
+title: Visualizing Multiple Simulations in a Single Animation
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 Now that we've generated individual animations, it’s time to bring them together into a single visualization. This allows for a clear side-by-side comparison of how different parameters influence particle behavior over time.
 
 We’ll do this by combining the individual simulation GIFs into a single animated grid.
 
-<p align="center"><img src="../_static/combined.gif" alt="Visualization of 9 simulations" width="600"></p>
+![Visualization of 9 simulations](splishsplash/combined.gif)
 
 ## Creating a Combined GIF
 The Python script below takes multiple GIF files and arranges them into a grid layout, producing a single unified animation:

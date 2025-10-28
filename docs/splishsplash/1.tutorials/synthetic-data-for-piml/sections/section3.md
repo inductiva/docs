@@ -1,4 +1,11 @@
-# Testing the Impact of Hyperparameters
+---
+title: Testing the Impact of Hyperparameters
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 Next, we'll take a closer look at one of the most important hyperparameters in our simulation: **particle radius**. This parameter plays a key role in balancing the fidelity of the SPH simulation with its computational cost. Our goal is to identify a value that produces a particle count comparable to that used by [Sánchez-González et al.](https://arxiv.org/abs/2002.09405), while keeping the computational requirements manageable.
 
 To approach this systematically, we’ll once again use Inductiva’s templating mechanism. This allows us to replace the fixed numerical value of the particle radius in the .json configuration file with a templated variable, making it easy to experiment with different values programmatically.
