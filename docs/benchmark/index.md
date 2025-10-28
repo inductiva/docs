@@ -2,6 +2,7 @@
 title: Benchmark
 navigation:
   title: Overview
+  show: true
 description: ""
 seo:
  title: “”
