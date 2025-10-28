@@ -1,4 +1,11 @@
-# Evaluate the Impact of Hyper-threading
+---
+title: Evaluate the Impact of Hyper-threading
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 All the simulation runs discussed so far were executed with **hyper-threading enabled**, meaning computational resources were configured with `threads_per_core=2`. This is the **default** setting for virtual machines on Inductiva (learn more [here](https://inductiva.ai/guides/how-it-works/machines/hyperthreading)). 
 
 In traditional HPC environments, however, it's common practice to run one thread per physical core, with **hyper-threading disabled**. This approach helps avoid resource contention and can lead to more predictable and consistent performance.

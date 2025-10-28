@@ -1,4 +1,11 @@
-# Modeling Waves in Antarctic Polynyas
+---
+title: Modeling Waves in Antarctic Polynyas
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 In this tutorial, we demonstrate how to use the Inductiva API to run a series of SWAN simulations that replicate scenarios from the study: [Herman, A., & Bradtke, K. (2023). SWAN wave model simulations of the Terra Nova Bay Polynya](https://zenodo.org/records/8308164).
 
 This example is particularly compelling because it walks through a **complete scientific modeling workflow** — from preparing real-world data, to running simulations, to validating the results. Simulating wave growth in Antarctic polynyas is a complex challenge due to the combination of strong offshore winds, rapidly forming frazil and grease ice, and sharp spatial gradients between open water and ice-covered regions. These conditions require precise input preparation and careful parameter tuning, as even small changes can significantly affect the simulated wave spectra and their agreement with satellite observations.
@@ -17,14 +24,5 @@ The tutorial is organized into the following parts:
 
 Let's get started!
 
-```{banner_small}
-:origin: swan
-```
-
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-```
+::docsbannersmall
+::

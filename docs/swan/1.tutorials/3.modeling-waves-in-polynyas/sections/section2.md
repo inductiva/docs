@@ -1,4 +1,10 @@
-# Run the Scenarios on Inductiva
+---
+title: Run the Scenarios on Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 ## Running the Baseline S0 Scenario
 The following Python script runs the simulation for the configuration `S0/polynya2D_20211007`. Save the following code as a `.py` file inside the `tutorial` directory before running it.
@@ -32,7 +38,7 @@ task.print_summary()
 
 In this example, we use a `c4d-highcpu-32` machine, based on 5th Gen AMD EPYC processors (2024), equipped with 32 virtual CPUs. You can explore the full range of available machines [here](https://console.inductiva.ai/machine-groups/instance-types).
 
-> **Note**: Setting `spot=True` enables the use of [spot machines](../how-it-works/machines/spot-machines.md), which are available at substantial discounts.
+> **Note**: Setting `spot=True` enables the use of [spot machines](/how-it-works/machines/spot-machines.md), which are available at substantial discounts.
 > However, your simulation may be interrupted if the cloud provider reclaims the machine.
 
 When the simulation is complete, we terminate the machine, download the results and print a summary of the simulation as shown below.
@@ -83,6 +89,6 @@ Below are the results of running the `S0/polynya2D_20211007` and `S2_f5/polynya2
 
 We observe a significant, though not linear, improvement in execution time as the number of virtual CPUs increases, accompanied by a corresponding rise in cost. For larger simulations or tight deadlines, opting for more powerful machines can yield substantial time savings.
 
-```{banner_small}
-:origin: swan
-```
+::docsbannersmall
+::
+
