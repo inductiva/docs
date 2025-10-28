@@ -103,10 +103,9 @@ If you saw the warning above, it’s time to update your PATH variable. This tel
 
     In this case, there’s no */Users/YOURUSERNAME/Library/Python/3.9/bin* directory listed, which means pip is not accessible from the command line. We would need to add the Python path manually to ensure smooth installation and usage.
 
-````{eval-rst}
-.. important::
-   YOURUSERNAME is your actual username, which you can find by checking the Terminal prompt or running whoami in the Terminal!
-````
+::warning
+    YOURUSERNAME is your actual username, which you can find by checking the Terminal prompt or running whoami in the Terminal!
+::
 
 2. **Add Python to PATH**
 

@@ -46,11 +46,9 @@ If it’s missing, we’ll go over how to install it on Windows.
     ```
 
     Windows will then prompt you with an option to Open the Microsoft Store, where it takes you directly to the Python page. From there, you can click **Get** to install Python. 
-
-````{eval-rst}
-.. important::
-   During installation, make sure to check the box that says Add Python.exe to PATH. This ensures the PATH is set automatically, so you won’t have to do it manually later.
-````
+::warning
+    During installation, make sure to check the box that says Add Python.exe to PATH. This ensures the PATH is set automatically, so you won’t have to do it manually later.
+::
 
 The installation can take a few minutes to complete.
 

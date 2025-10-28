@@ -21,6 +21,7 @@ you time and help you sidestep the most common setup challenges!
 ### Select your OS
 
 [MacOS System Prep Guide](osx)
+
 [Windows System Prep Guide](windows)
 
 ## Installing the inductiva Python client and authenticating
