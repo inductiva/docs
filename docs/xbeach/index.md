@@ -1,12 +1,24 @@
-# The Inductiva Guide to XBeach 🏝️
+---
+title: The Inductiva Guide to XBeach 🏝️
+description: ""
+seo:
+ title: ""
+ description: ""
+---
+
 Your resource hub for all things XBeach at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your XBeach simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
 
-Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
+Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check!
 
-```{python_editor}
-:origin: xbeach
-:url: https://console.inductiva.ai/editor?simulator_name=xbeach
-```
+::pythoneditor
+---
+origin: xbeach
+text: Try our online Python Editor – run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=xbeach
+---
+::
+
 
 ## What You'll Find Here
 
@@ -14,66 +26,19 @@ Inductiva simplifies research by making high-performance computing more accessib
 Step-by-step guides to help you learn how to run XBeach through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](setup-test)
-    - [Run Your First Simulation](quick-start)
+    - [Test Your Inductiva Setup](xbeach/tutorials/setup-test)
+    - [Run Your First Simulation](xbeach/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run the Galveston Island Beach and Dune Simulation](run-galveston-island-example)
-    - [XBeach Visualizations with ParaView](paraview-for-visualization)
+    - [Run the Galveston Island Beach and Dune Simulation](xbeach/tutorials/run-galveston-island-example)
+    - [XBeach Visualizations with ParaView](xbeach/visualization/paraview-for-visualization)
 
 * **Webinars**
-    - [XBeach on Inductiva](webinars/xbeach-video-tutorial)
+    - [XBeach on Inductiva](xbeach/watch&learn/xbeach-video-tutorial)
     
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how XBeach performs on different hardware configurations.
 
-```{banner}
-:origin: xbeach
-```
+::docsbanner
+::
 
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-versions-and-containers
-```
-
-```{toctree}
----
-caption: 🛠️ Tutorials
-maxdepth: 3
-hidden: true
----
-setup-test
-quick-start
-run-galveston-island-example
-```
-
-```{toctree}
----
-caption: 📊 Visualization
-maxdepth: 1
-hidden: true
----
-paraview-for-visualization
-```
-
-```{toctree}
----
-caption: ▶️ Watch & Learn
-maxdepth: 3
-hidden: true
----
-XBeach on Inductiva <webinars/xbeach-video-tutorial>
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-faq
-```
