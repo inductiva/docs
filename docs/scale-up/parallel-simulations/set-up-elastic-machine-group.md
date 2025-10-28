@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Set up and Manage an Elastic Machine Group
 
 The `ElasticMachineGroup`, similarly to the standard `MachineGroup`, is composed of 

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Templating Manager
 
 The Inductiva API is all about enabling you to simulate at scale. As we have shown,

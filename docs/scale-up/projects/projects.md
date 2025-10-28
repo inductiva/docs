@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Projects
 
 Projects are the primary organizational unit in the Inductiva API. Every simulation task belongs to a project, providing a logical way to group related computational work.

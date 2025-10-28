@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Scale Up Your Simulations
 
 Scale Up Your Simulations with Ease
@@ -8,23 +16,23 @@ your workflows to maximize speed and minimize costs, so you can scale your proje
 and effectively.
 
 ## 📘 What’s Inside:
-🔢 [Parallel Simulations](parallel-simulations/index) – Learn how to run many simulations at 
+🔢 [Parallel Simulations](parallel-simulations/) – Learn how to run many simulations at 
 once using cloud resources, accelerating large experiments or parameter sweeps with minimal setup.
 
-📁 [Projects](projects/index) – Organize your work into projects to group related simulations, 
+📁 [Projects](projects/) – Organize your work into projects to group related simulations, 
 streamline task tracking, and manage resource usage efficiently.
 
-⏩ [Recipes](recipes/index) – Ready-to-use code snippets to streamline your workflows.
+⏩ [Recipes](recipes/) – Ready-to-use code snippets to streamline your workflows.
 
-⏩ [Optimize Workflow](optimize-workflow/index) – Tips and hacks to streamline your workflows.
+⏩ [Optimize Workflow](optimize-workflow/) – Tips and hacks to streamline your workflows.
 
-💰 [Save Costs](save-costs/index) – Tips and strategies to reduce credit usage, from managing 
+💰 [Save Costs](save-costs/) – Tips and strategies to reduce credit usage, from managing 
 storage and quotas to selecting efficient machines and cleaning up resources.
 
 🧪 [Generate Dataset](generate-dataset/generate-dataset) – Use simulations to generate custom 
 datasets at scale, ideal for machine learning or research requiring labeled physical data.
 
-📊 [Benchmarks](benchmark/index) – Learn to benchmark your simulation on different machines to 
+📊 [Benchmarks](benchmark/) – Learn to benchmark your simulation on different machines to 
 find the most cost-effective and performant configuration.
 
 
@@ -43,96 +51,5 @@ with minimal trial and error.
 
 Discover how to efficiently run larger and more complex simulations on Inductiva!   
 
-
-```{banner}
-:origin: scale_up
-```
-
-
-```{toctree}
----
-caption: Parallel Simulations
-maxdepth: 4
-hidden: true
----
-Overview <parallel-simulations/index>
-Parallel Simulations <parallel-simulations/run-parallel-simulations>
-Templating <parallel-simulations/templating>
-Parallel Simulations with Templating <parallel-simulations/run-parallel-simulations-with-templating>
-Set up an Elastic Machine Group <parallel-simulations/set-up-elastic-machine-group>
-Set up an MPI Cluster <parallel-simulations/set-up-mpi-cluster>
-
-```
-
-```{toctree}
----
-caption: Projects
-maxdepth: 3
-hidden: true
----
-
-Overview <projects/index>
-projects/projects
-projects/manage-projects
-projects/visualize-projects
-
-```
-
-```{toctree}
----
-caption: Recipes
-maxdepth: 3
-hidden: true
----
-Overview <recipes/index>
-♻️ Reuse Files Across Multiple Simulations <recipes/reuse-files>
-⬇️ Download specific files from a group of tasks <recipes/download-file-from-project>
-🗑️ Clean Up Storage by Condition <recipes/storage-related/index>
-👀 Real-Time Monitoring & Conditional Auto Termination <recipes/real-time-simulation-monitoring>
-⏰ Setting a Time-to-Live on Your Simulations <recipes/set-task-ttl/set-task-ttl>
-```
-
-```{toctree}
----
-caption: Optimize Workflow
-maxdepth: 3
-hidden: true
----
-Overview <optimize-workflow/index>
-Alerts & Events <optimize-workflow/alerts-events/index>
-
-```
- 
-```{toctree}
----
-caption: Save Costs
-maxdepth: 2
-hidden: true
----
-Overview <save-costs/index>
-Minimize simulation data <save-costs/save_storage>
-
-```
- 
-```{toctree}
----
-caption: Generate Dataset
-maxdepth: 3
-hidden: true
----
-🧪 Generate a Dataset <generate-dataset/generate-dataset>
-```
-
-```{toctree}
----
-caption: Benchmarks
-maxdepth: 2
-hidden: true
----
-Overview <benchmark/index>
-benchmark/benchmarking
-benchmark/why-benchmarks
-Run a Benchmark <benchmark/run-benchmarks>
-benchmark/monitor-live
-
-```
+::docsbanner
+::

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # 🗑️ Clean Up Storage by Condition
 
 As you run more simulations on Inductiva, storage used by failed, outdated, or large tasks can accumulate quickly, potentially <a href="https://inductiva.ai/guides/how-it-works/basics/how-much-does-it-cost">increasing costs</a> and cluttering your project space. This guide shows you how to identify and clean up unnecessary storage by:

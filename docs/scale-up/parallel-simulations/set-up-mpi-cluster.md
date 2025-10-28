@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Set up and Manage an MPI Cluster
 An `MPICluster` is a set of homogeneous machines configured to communicate and collaborate in running a single simulation. By leveraging multiple machines working together, users can execute simulations that require a level of parallelization beyond what a single machine can provide.
 

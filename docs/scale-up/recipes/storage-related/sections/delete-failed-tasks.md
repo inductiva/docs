@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Delete failed tasks
 
 Over time, failed tasks can accumulate and take up unnecessary storage space. To

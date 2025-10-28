@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # 🔔 Inductiva Alerts
 
 Inductiva Alerts are predefined by Inductiva to warn users about events that could disrupt their work.

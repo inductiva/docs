@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Real-Time Monitoring & Conditional Auto Termination
 
 You’re running one or more simulations that take time and resources, and you want to stop them automatically once they converge based on a condition (e.g., residuals falling below a threshold). Doing this manually is tedious, error-prone, and inefficient.

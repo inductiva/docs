@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # 🔔 Alerts & Events
 
 Inductiva provides a flexible alert system to keep users informed about important events in their simulations and account activity. Alerts can notify of issues that require attention, or confirm that expected events have occurred.

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Parallel Simulations with Templating
 
 Running multiple simulations in parallel can significantly reduce waiting times, 

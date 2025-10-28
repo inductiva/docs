@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # 👀 Simulation Observer Events
 
 > **Note:** This tutorial demonstrates **passive tracking**, where observer triggers run **on the background**

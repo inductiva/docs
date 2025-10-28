@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Cleaning Up After Simulations
 
 Simulations often generate a large number of temporary or intermediate files

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Check Progress & Results
 While your benchmark is running, you can monitor its progress in real-time using the [Inductiva Console](https://console.inductiva.ai/dashboard). This is crucial for tracking progress and debugging any issues as they happen.
 

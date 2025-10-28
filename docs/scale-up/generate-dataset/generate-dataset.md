@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Generate a Dataset
 Generating synthetic data with the Inductiva API is a structured process that begins with a base simulation model and scales to thousands of variations, producing a diverse and robust dataset.
 

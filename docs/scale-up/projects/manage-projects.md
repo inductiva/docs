@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Manage Programmatically
 
 Once you've created projects, you need to manage tasks within them. This guide covers all the essential project management operations and organizational strategies.

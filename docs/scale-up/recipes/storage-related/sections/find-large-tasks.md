@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Find Large projects or tasks
 
 It’s not always obvious which projects or tasks are consuming the most storage

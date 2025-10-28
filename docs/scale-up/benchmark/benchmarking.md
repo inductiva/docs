@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Benchmarks
 
 The Inductiva API provides a **benchmarking tool** to help you measure, compare, and optimize simulation performance across different configurations. Make data-driven decisions about resource allocation, cost optimization, and performance tuning.

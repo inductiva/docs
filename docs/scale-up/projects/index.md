@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Projects
 
 The Inductiva API uses Projects as the primary organizational unit for grouping related Tasks, providing a clean way to manage collections of simulations under a common folder.

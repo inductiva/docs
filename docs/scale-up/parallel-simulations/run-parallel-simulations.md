@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Parallel Simulations
 
 In this tutorial, you'll learn how to run multiple simulations in parallel, each with

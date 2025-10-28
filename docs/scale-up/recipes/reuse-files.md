@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Reuse Files Across Multiple Simulations
 
 Running multiple simulations often involves reusing large files, 

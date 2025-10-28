@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Run a Benchmark
 
 In this tutorial, we’ll show you how to use Inductiva’s API to run a benchmark. 

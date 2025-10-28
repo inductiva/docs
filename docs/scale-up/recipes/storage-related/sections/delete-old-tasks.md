@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Delete old tasks
 
 As your project grows, older tasks may accumulate and continue occupying valuable

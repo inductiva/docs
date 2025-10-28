@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Reducing Data Generation in Simulations
 
 Running simulations often results in the creation of huge amounts of data. While
