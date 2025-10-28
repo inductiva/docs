@@ -181,27 +181,27 @@
       "children": [
         {
           "title": "Parallel Simulations",
-          "path": "scale-up/parallel-simulations/"
+          "path": "parallel-simulations/"
         },
         {
           "title": "Projects",
-          "path": "scale-up/projects/"
+          "path": "projects/"
         },
         {
           "title": "Save Costs",
-          "path": "scale-up/save-costs/"
+          "path": "save-costs/"
         },
         {
           "title": "Recipes",
-          "path": "scale-up/recipes/"
+          "path": "recipes/"
         },
         {
           "title": "Generate Dataset",
-          "path": "scale-up/generate-dataset/generate-dataset"
+          "path": "generate-dataset/generate-dataset"
         },
         {
           "title": "Benchmarks",
-          "path": "scale-up/benchmark/"
+          "path": "benchmark/"
         }
       ]
     },
