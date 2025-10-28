@@ -34,7 +34,7 @@ Step-by-step guides to help you learn how to run XBeach through the Inductiva AP
     - [XBeach Visualizations with ParaView](xbeach/visualization/paraview-for-visualization)
 
 * **Webinars**
-    - [XBeach on Inductiva](xbeach/watch&learn/xbeach-video-tutorial)
+    - [XBeach on Inductiva](xbeach/watch-and-learn/xbeach-video-tutorial)
     
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how XBeach performs on different hardware configurations.
