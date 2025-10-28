@@ -197,7 +197,7 @@
         },
         {
           "title": "Generate Dataset",
-          "path": "generate-dataset/generate-dataset"
+          "path": "generate-dataset/"
         },
         {
           "title": "Benchmarks",
