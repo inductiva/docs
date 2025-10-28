@@ -1,4 +1,10 @@
-# Windows System Prep Guide
+---
+title: Windows System Prep Guide
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 ## Step 1: Check if Python is Installed
 
@@ -79,6 +85,5 @@ If you run into any issues or challenges while installing the API, please reach 
 
 You can also check out our [troubleshooting guide](https://inductiva.ai/guides/how-it-works/get-started/troubleshooting) for more information.
 
-```{banner_small}
-:origin: system_requirements_win
-```
+::docsbannersmall
+::

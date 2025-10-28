@@ -1,4 +1,10 @@
-# MacOS System Prep Guide
+---
+title: MacOS System Prep Guide
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 ## Step 1: Check if Python is Installed
 
@@ -45,11 +51,6 @@ If it’s missing, we’ll go over how to install it on macOS.
     Behind your Terminal window, a pop-up should appear asking if you want to install “command line developer tools.” Follow the installation instructions and click **Install** to start.
 
     This installation can take a while (*up to an hour, depending on your internet speed*), as it includes necessary tools for running Python smoothly.
-
-
-<div align="center">
-    <img src="../../_static/dev_tools.png" alt="Developer tools install">
-</div>
 
 4. **Test Again**
 
@@ -141,6 +142,5 @@ If you run into any issues or challenges while installing the API, please reach 
 
 You can also check out our [troubleshooting guide](https://inductiva.ai/guides/how-it-works/get-started/troubleshooting) for more information.
 
-```{banner_small}
-:origin: system_requirements_osx
-```
+::docsbannersmall
+::
