@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Why Benchmark
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-## Why Benchmark
 
 ### Understanding Benchmarks
 **Benchmarking** is essential for making informed decisions about computational resources. When you launch a simulation, its performance and cost depend heavily on how well the available hardware — CPU cores, memory, and GPUs — is used. Without systematic testing, you risk paying for resources you don’t use efficiently or waiting longer than necessary for results.

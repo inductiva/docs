@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Benchmarks
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Benchmarks
 
 The Inductiva API provides a **benchmarking tool** to help you measure, compare, and optimize simulation performance across different configurations. Make data-driven decisions about resource allocation, cost optimization, and performance tuning.
 
@@ -57,7 +55,7 @@ A `Benchmark` object contains **runs**, where each run represents a different si
 | `terminate()` | Clean up resources | Always call when finished |
 
 
-> For complete API documentation including all parameters, methods, and configuration options, see the [Benchmark](https://inductiva.ai/guides/api-functions/api/inductiva.benchmarks) class documentation
+> For complete API documentation including all parameters, methods, and configuration options, see the [Benchmark](/guides/api-functions/api/inductiva.benchmarks) class documentation
 
 ## Code Examples
 
@@ -139,5 +137,5 @@ Use simulation inputs that represent your actual production workloads. Synthetic
 ## Next Steps
 Now that you understand the fundamentals of benchmarks in the Inductiva API, explore these topics to deepen your knowledge:
 
-- [How to Run a Benchmark](run-benchmarks.md)
+- [How to Run a Benchmark](run-benchmarks)
 - [Allocating Computational Resources in a Diverse Chip Ecosystem](https://inductiva.ai/blog/article/allocating-computational-resources-in-a-diverse-chip-ecosystem)

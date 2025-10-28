@@ -1,15 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Run a Benchmark
 description: ""
 seo:
  title: “”
  description: “”
 ---
 
-# Run a Benchmark
-
 In this tutorial, we’ll show you how to use Inductiva’s API to run a benchmark. 
-We’ll use the [SPlisHSPlasH simulator](https://inductiva.ai/guides/splishsplash) 
+We’ll use the [SPlisHSPlasH simulator](/guides/splishsplash) 
 as an example, so you can follow along and learn the process step by step.
 
 The goal is to find the best machine that balances computation time and cost. 
@@ -200,7 +198,7 @@ the program runs efficiently while avoiding unnecessary resource usage.
 Uploading input files for every run can waste time and resources. Instead, we 
 upload the files once to a GCP bucket and reuse them for all subsequent runs. 
 We’ve already covered this feature in detail in a tutorial 
-on [How to Reuse Input Files Across Runs](https://inductiva.ai/guides/scale-up/recipes/reuse-files), so feel free to check it out for a detailed walkthrough.
+on [How to Reuse Input Files Across Runs](/guides/recipes/reuse-files), so feel free to check it out for a detailed walkthrough.
 
 **Upload Files to a GCP Bucket**
 
@@ -386,6 +384,5 @@ benchmark = benchmarks.Benchmark(name="splishsplash-fluid-cube") \
 With this step, your benchmark analysis is complete, and you now have the tools 
 to continuously refine and expand your benchmarking experiments.
 
-```{banner_small}
-:origin: benchmarks_bonus_add_machine
-```
+::docsbannersmall
+::
