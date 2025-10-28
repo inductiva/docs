@@ -73,9 +73,3 @@ The benchmark was conducted on the following machine series:
 See the results of the benchmark on the following pages:
 - [Execution Times Comparison](exec-time)
 - [Cost vs Time](cost-v-time)
-
-```{toctree}
-:hidden:
-exec-time
-cost-v-time
-```
