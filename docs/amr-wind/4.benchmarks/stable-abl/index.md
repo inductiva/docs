@@ -1,14 +1,14 @@
-# AMR-Wind Benchmark: Stable Atmospheric Boundary Layer Scaling on the Cloud
+---
+title: AMR-Wind Benchmark - Stable Atmospheric Boundary Layer Scaling on the Cloud
+description: This benchmark evaluates the performance of the AMR-Wind simulator by running a stable atmospheric boundary layer simulation. The simulation uses an uniform mesh resolution and directly follows well-established reference studies in the literature.  
+seo:
+ title: AMR-Wind Benchmark - Stable Atmospheric Boundary Layer Scaling on the Cloud
+ description: This benchmark evaluates the performance of the AMR-Wind simulator by running a stable atmospheric boundary layer simulation. The simulation uses an uniform mesh resolution and directly follows well-established reference studies in the literature.
+---
 
 <p align="right">
     <small>Last Updated on: 2025-09-18</small>
 </p>
-
-## 📌 Overview
-
-This benchmark evaluates the performance of the **AMR-Wind** simulator by running a **stable atmospheric boundary layer** simulation.  
-The simulation uses an uniform mesh resolution and directly follows well-established reference studies in the literature.
-
 
 > **The original input files can be found [here](https://github.com/Exawind/exawind-benchmarks/tree/main/amr-wind/atmospheric_boundary_layer/stable/input_files).**
 
