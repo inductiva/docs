@@ -1,11 +1,20 @@
-# Cloud Storage
+---
+title: Cloud Storage
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 ## Get started
 📁 Get clarity on how Inductiva handles simulation data, where task outputs live, 
 how to access and manage them, and why storage choices impact your credit usage. 
 Learn best practices for organizing and cleaning up data.
 
-[Storage and Data Flow](cloud-storage) - Learn about Local Storage, Personal Remote Storage and Worker Storage, and how they all connect.
+[Storage and Data Flow](/guides/cloud-storage/cloud-storage) - Learn about Local Storage, Personal Remote Storage and Worker Storage, and how they all connect.
 
 ## Why it's Useful
 ✓ **Store everything in one place** – Every user gets a private cloud bucket to hold 
@@ -23,7 +32,6 @@ your simulations.
 ✓ **No time limits** – Your data stays available as long as you need it - no automatic 
 deletion, no expiration deadlines.
 
+::docsbanner
+::
 
-```{banner}
-:origin: cloud_storage_index
-```
