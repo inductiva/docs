@@ -1,10 +1,19 @@
-# Costs and Quotas
+---
+title: Costs and Quotas
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 ## Get started
 💰 Understand how credits translate into compute and storage usage, and see 
 the quotas that define your resource limits. 
 
-| **[Compute with 5$US →](compute-5usd.md)** | **[Cloud Compute Costs →](how-much-does-it-cost.md)** | **[Quotas →](quotas.md)** |
+| **[Compute with 5$US →](/guides/basics/compute-5usd)** | **[Cloud Compute Costs →](/guides/basics/how-much-does-it-cost)** | **[Quotas →](/guides/basics/quotas)** |
 |---|---|---|
 | Get a concrete sense of how far the initial free credits can take you, with examples of simulations and runtimes covered by $5US. | Understand how simulation costs are calculated, including machine pricing, storage usage, and tips to stay cost-efficient. | Learn about the limits in place for each user account, how they help ensure a reliable experience for everyone, and how to request increases if needed. |
 
@@ -26,6 +35,6 @@ an upgrade.
 and spending. 
 
 
-```{banner}
-:origin: costs_quotas_index
-```
+::docsbanner
+::
+

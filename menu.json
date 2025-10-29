@@ -148,31 +148,31 @@
       "children": [
         {
           "title": "The Building Blocks",
-          "path": "how-it-works/building-blocks/"
+          "path": "building-blocks/"
         },
         {
           "title": "Get Started",
-          "path": "how-it-works/get-started/"
+          "path": "get-started/"
         },
         {
           "title": "Costs and Quotas",
-          "path": "how-it-works/basics/"
+          "path": "basics/"
         },
         {
           "title": "Tasks",
-          "path": "how-it-works/tasks/"
+          "path": "tasks/"
         },
         {
           "title": "Computational Resources",
-          "path": "how-it-works/machines/"
+          "path": "machines/"
         },
         {
           "title": "Machine-Simulation Fit",
-          "path": "how-it-works/machine_simulation/"
+          "path": "machine_simulation/"
         },
         {
           "title": "Cloud Storage",
-          "path": "how-it-works/cloud-storage/"
+          "path": "cloud-storage/"
         }
       ]
     },
