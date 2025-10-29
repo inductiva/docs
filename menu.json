@@ -244,7 +244,7 @@
       "children": [
         {
           "title": "Releases",
-          "path": "release-notes/releases/"
+          "path": "release-notes/"
         }
       ],
       "groupWith": "API Functions"
