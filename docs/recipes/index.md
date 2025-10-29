@@ -19,7 +19,7 @@ looking to streamline their workflow!
 
 This section is an ever-growing collection of useful scripts, so here's a few top highlights:
 
-| **[Reuse input files →](reuse-files)** | **[Reuse output files →](reuse-files#how-to-reference-output-files)** | **[Clean-up Storage →](storage-related/)** | 
+| **[Reuse input files →](/guides/reuse-files)** | **[Reuse output files →](/guides/reuse-files#how-to-reference-output-files)** | **[Clean-up Storage →](/guides/storage-related/)** | 
 |---|---|---|
 | Instead of uploading large inout files repeatedly, upload files once and reuse them across multiple tasks. | Reuse the output of a previous task as input of a new simulation. | This guide shows how to identify and clean up unnecessary storage. |
 
