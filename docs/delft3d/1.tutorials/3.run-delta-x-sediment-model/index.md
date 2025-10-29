@@ -21,13 +21,6 @@ This tutorial focuses on executing the 2021 Spring deployment across multiple co
 
 Let's get started!
 
-```{banner_small}
-:origin: swan
-```
+::docsbanner
+::
 
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-```
