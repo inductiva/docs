@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # FAQ
 
 ## 1. Do I need to create an AWS S3 bucket before exporting files?

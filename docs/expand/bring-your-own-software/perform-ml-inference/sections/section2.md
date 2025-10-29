@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Export the Docker Image to Inductiva Storage 📦
 After building your Docker image, the next step is to upload it to your Inductiva storage, making it ready for use in remote simulations.
 

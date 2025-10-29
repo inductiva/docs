@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Guide to Bringing Your Own Software
 Inductiva is a versatile API platform that simplifies the process of running a wide variety of pre-configured simulation software. With its flexible architecture, Inductiva can also be adapted to run **any scientific software**, making it a powerful tool for researchers and developers.
 

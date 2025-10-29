@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Run Simulation with Custom Docker Image
 This guide demonstrates how to run a simulation using a custom Docker image.
 

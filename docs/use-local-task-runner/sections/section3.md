@@ -1,4 +1,11 @@
-# Step 3: Stop the Local Task-Runner
+---
+title: Step 3 - Stop the Local Task-Runner
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 To stop the task-runner Docker container, press `Ctrl+C`.
 
 Note that this does **not** terminate the associated machine group. To shut it down, use the Inductiva CLI:

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Creating a Python Dockerfile for Inductiva
 
 With **Inductiva**, you can run your own software using custom Docker images,

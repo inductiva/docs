@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Get Started in 3 Easy Steps
 
 ## 1. Install Inductiva with AWS Support

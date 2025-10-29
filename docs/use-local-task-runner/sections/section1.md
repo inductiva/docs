@@ -1,4 +1,11 @@
-# Step 1: Launch the Local Task-Runner
+---
+title: Step 1 - Launch the Local Task-Runner
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 Start the Local task-runner with:
 
 ```bash
@@ -23,7 +30,7 @@ $ inductiva resources list
 
 Or the Web Console:
 
-![Active machine groups list](static/machine-group-list.png)
+![Active machine groups list](expand/use-local-task-runner/machine-group-list.png)
 
 ### Get Resource Details
 Use the Inductiva CLI:
@@ -40,7 +47,7 @@ Showing machines of machine group: local-machine-group
 
 Or the Web Console:
 
-![Machine group detail](static/machine-group-detail.png)
+![Machine group detail](expand/use-local-task-runner/machine-group-detail.png)
 
 ## Customize the Hostname
 You can customize the hostname with the `--hostname` argument:

@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Run the Custom Image on the Inductiva API ⚡️
 With your custom container uploaded to Inductiva, you're now ready to run simulations — no more waiting for model downloads at runtime! 🎉
 

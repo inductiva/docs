@@ -1,4 +1,11 @@
-# Step 2: Run a Simulation Locally
+---
+title: Step 2 - Run a Simulation Locally
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 With the task-runner active, you can now run a simulation on your local machine. Below is an example using the GROMACS simulator:
 
 ```python
@@ -40,6 +47,5 @@ task.wait()
 
 This script shows how to configure and run a molecular dynamics simulation using GROMACS locally through the Inductiva platform.
 
-```{banner_small}
-:origin: use_local_task_runner
-```
+::docsbannersmall
+::

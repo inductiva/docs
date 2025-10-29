@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Export Files from Inductiva to AWS S3
 Inductiva makes it easy to export your files directly from your [Personal Remote Storage](https://inductiva.ai/guides/how-it-works/cloud-storage/cloud-storage#personal-remote-storage) to **AWS S3**, streamlining data management and transfer.
 

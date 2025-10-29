@@ -214,15 +214,15 @@
       "children": [
         {
           "title": "Bring Your Own Software",
-          "path": "expand/bring-your-own-software/"
+          "path": "bring-your-own-software/"
         },
         {
           "title": "Bring Your Own Hardware",
-          "path": "expand/use-local-task-runner/"
+          "path": "use-local-task-runner/"
         },
         {
           "title": "Bring Your Own Cloud",
-          "path": "expand/bring-your-own-cloud/"
+          "path": "bring-your-own-cloud/"
         }
       ]
     },

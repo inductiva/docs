@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Run SFINCS Directly from Deltares’ Repository
 The [SFINCS](https://www.deltares.nl/en/software-and-data/products/sfincs) (Super-Fast INundation of CoastS) model is a reduced-complexity simulation 
 engine developed by [Deltares](https://www.deltares.nl/en). It is designed 

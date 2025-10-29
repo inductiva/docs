@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Run Large Integer Factorization
 Every integer can be expressed as a product of prime numbers — a principle known as the Fundamental
 Theorem of Arithmetic.

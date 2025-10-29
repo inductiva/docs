@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Launching Machines on Your Own GCP Account
 
 Inductiva's Bring Your Own Cloud (BYOC) feature allows you to launch and manage compute machines directly on your own Google Cloud Platform (GCP) account. This gives you full control over your compute resources while leveraging Inductiva's task management and simulation capabilities. Your GCP credentials never leave your local machine, ensuring maximum security and privacy.

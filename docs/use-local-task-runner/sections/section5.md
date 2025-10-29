@@ -1,4 +1,10 @@
-# FAQ
+---
+title: FAQ
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 ## 1. Why do I get a permission error when running the task runner on Ubuntu 24.04?
 Ubuntu 24.04 has a stricter AppArmor policy that restricts unprivileged user namespaces by default, which may prevent the task-runner from working.

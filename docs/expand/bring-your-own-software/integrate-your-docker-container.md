@@ -1,3 +1,11 @@
+---
+title: ⚙️ Welcome to OpenFOAM at Inductiva
+description: ""
+seo:
+ title: “”
+ description: “”
+---
+
 # Integrate Your Docker Container
 One of Inductiva's standout features is its ability to seamlessly run any Docker container directly in the cloud. In this guide, we’ll walk you through the integration process using [FFMPEG](https://ffmpeg.org) as an example. This approach can also be applied to your **own custom Docker images**.
 
