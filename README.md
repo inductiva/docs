@@ -74,6 +74,14 @@ docs/openfoam/
 
 - Each simulator folder must have an `index.md` file.  
 - Each subfolder inside /docs/simulator represents a submenu in the website and should also have an `index.md` file.
+- On some cases the index will not be shown to make the docs cleaner. If you need to have the index present on the menu make sure to add this to the markdown file:
+
+```
+navigation:
+  title: Name to show on the menu
+  show: true 
+```
+In this case, title will be the text shown on the menu (optional).
 
 ### Menu Structure
 
