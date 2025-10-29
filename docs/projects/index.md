@@ -1,12 +1,12 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Projects
 description: ""
+navigation:
+  show: true
 seo:
  title: “”
  description: “”
 ---
-
-# Projects
 
 The Inductiva API uses Projects as the primary organizational unit for grouping related Tasks, providing a clean way to manage collections of simulations under a common folder.
 
@@ -14,7 +14,7 @@ The Inductiva API uses Projects as the primary organizational unit for grouping 
 ## Get started
 Learn about _Projects_ — the organizational framework in the Inductiva API that groups your simulation tasks logically. Projects provide structure, organization, and simplified management for your computational workflows.
 
-| **[Projects →](projects.md)** | **[Manage Programmatically →](manage-projects.md)** | **[Manage in the Web Console →](visualize-projects.md)** |
+| **[Projects →](/guides/projects/projects.md)** | **[Manage Programmatically →](/guides/projects/manage-projects.md)** | **[Manage in the Web Console →](/guides/projects/visualize-projects.md)** |
 |---|---|---|
 | Learn about Projects and how to create them | Understand how to manage and organize tasks within projects | Monitor progress and manage projects using the Web Console dashboard. |
 
@@ -27,6 +27,5 @@ Learn about _Projects_ — the organizational framework in the Inductiva API tha
 
 ✓ **Simple task assignment** Add tasks to projects either during submission or after. Flexible assignment lets you organize work as your research evolves.
 
-```{banner}
-:origin: projects
-```
+::docsbanner
+::
