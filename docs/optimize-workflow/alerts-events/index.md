@@ -2,7 +2,6 @@
 title: Alerts & Events 🔔
 description: ""
 navigation:
-    title: Overview
     show: true
 seo:
  title: “”
@@ -16,8 +15,8 @@ There are two types of alerts:
 
 Depending on the alert type, notifications may be sent by email, shown in the web Console, or both. The table below lists all Inductiva alerts, their purpose, and the communication channels through which they can be received.
 
-* [Inductiva Alerts](sections/alerts.md)
-* [Simulation Observer Events](sections/observer-events.md)
+* [Inductiva Alerts](/guides/optimize-workflow/alerts-events/sections/alerts.md)
+* [Simulation Observer Events](/guides/optimize-workflow/alerts-events/sections/observer-events.md)
 
 
 ::docsbanner
