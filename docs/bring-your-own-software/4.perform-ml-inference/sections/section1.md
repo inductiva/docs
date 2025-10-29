@@ -1,12 +1,11 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: DiffDock Setup 🔧
 description: ""
 seo:
  title: “”
  description: “”
 ---
 
-# DiffDock Setup 🔧
 [DiffDock](https://github.com/gcorso/DiffDock) is an innovative molecular docking tool that uses diffusion models to predict protein-ligand interactions. 
 Unlike traditional docking methods, DiffDock uses a generative AI approach to predict the binding of small molecules to proteins with high accuracy and speed. 
 This model has shown great promise for drug discovery and virtual high throughput screening.

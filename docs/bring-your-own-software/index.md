@@ -1,12 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Guide to Bringing Your Own Software
 description: ""
+navigation:
+  show: true
 seo:
  title: “”
  description: “”
 ---
 
-# Guide to Bringing Your Own Software
 Inductiva is a versatile API platform that simplifies the process of running a wide variety of pre-configured simulation software. With its flexible architecture, Inductiva can also be adapted to run **any scientific software**, making it a powerful tool for researchers and developers.
 
 A key feature of Inductiva is its support for **custom Apptainer images** (formerly Singularity). This allows you to package and upload any software your project requires. Once uploaded, these images can be seamlessly deployed on cloud GPUs, enabling high-performance computing at scale with minimal setup. 
@@ -38,23 +39,5 @@ In **Episode 5** of our webinar series *Run It with Inductiva.AI*, we show how t
   </iframe>
 </div>
 
-```{banner}
-:origin: bring_your_own_software
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 5
-hidden: true
----
-how-it-works
-run-simulation-with-custom-docker-image
-run-sfincs-directly-from-deltares-repository
-integrate-your-docker-container
-perform-ml-inference/index
-run-large-integer-factorization
-run-R-stochastic-models
-python-based-simulations
-run-blender-simulation
-```
+::docsbanner
+::

@@ -1,12 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Perform Machine Learning Inference
 description: ""
+navigation:
+  show: true
 seo:
  title: “”
  description: “”
 ---
 
-# Perform Machine Learning Inference
 To showcase the flexibility of Inductiva, this guide walks you through the process of preparing and running [DiffDock](https://github.com/gcorso/DiffDock) — a well-known and somewhat 
 complex **Machine Learning model** for molecular docking.
 
@@ -20,13 +21,6 @@ Running DiffDock on Inductiva offers significant advantages for large-scale comp
 
 By running DiffDock—or **any software of your choice** — on Inductiva, you can harness the power of cloud computing while ensuring that your workflow scales seamlessly with your needs! ⚡️
 
-```{banner_small}
-:origin: perform_ml_inference
-```
+::docsbannersmall
+::
 
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-```

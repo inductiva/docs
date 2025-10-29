@@ -1,12 +1,12 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Run the Custom Image on the Inductiva API ⚡️
 description: ""
 seo:
  title: “”
  description: “”
 ---
 
-# Run the Custom Image on the Inductiva API ⚡️
+
 With your custom container uploaded to Inductiva, you're now ready to run simulations — no more waiting for model downloads at runtime! 🎉
 
 ## Using the Image in a Simulation
@@ -68,6 +68,5 @@ With this workflow, you've created a fast, portable, and scalable version of Dif
 
 You're now equipped to run custom deep learning workloads with maximum efficiency on Inductiva! ✅
 
-```{banner_small}
-:origin: perform_ml_inference
-```
+::docsbannersmall
+::
