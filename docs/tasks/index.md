@@ -1,4 +1,13 @@
-# Tasks
+---
+title: Tasks
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 Once you've launched a simulation how do you track it? The answer is **Tasks**. Inductiva API creates a unique Task for every simulation run, providing a dedicated object to monitor, manage, and retrieve results related to the computation from start to finish.
 
@@ -6,7 +15,7 @@ Once you've launched a simulation how do you track it? The answer is **Tasks**. 
 ## Get started
 Learn about _Tasks_ — the execution unit in the Inductiva API that represents your simulation workloads. Tasks provide real-time monitoring, status tracking, and result management for your computational work.
 
-| **[Tasks →](tasks.md)** | **[Task Execution →](tasks-execution.md)** | **[Task Lifecycle →](tasks-lifecycle.md)** |
+| **[Tasks →](/guides/tasks/tasks)** | **[Task Execution →](/guides/tasks/tasks-execution)** | **[Task Lifecycle →](/guides/tasks/tasks-lifecycle)** |
 |---|---|---|
 | Learn about Tasks and how they are automatically generated when you submit simulations | Control a task execution flow with synchronous and asynchronous approaches | Understand the task's status state machine, from submission through completion |
 
@@ -21,6 +30,5 @@ Learn about _Tasks_ — the execution unit in the Inductiva API that represents 
 
 ✓ **Session independence** Recreate task objects across different sessions using task IDs. Continue monitoring and managing tasks even after restarting your development environment.
 
-```{banner}
-:origin: tasks
-```
+::docsbanner
+::
