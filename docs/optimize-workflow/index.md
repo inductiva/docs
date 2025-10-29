@@ -1,12 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Optimize Your Workflow
 description: ""
+navigation:
+  title: Overview
+  show: true
 seo:
  title: “”
  description: “”
 ---
-
-# Optimize Your Workflow
 
 ## Get started
 ⏩ Take full advantage of Inductiva’s tools and features to make your simulation workflow smoother, faster, and more efficient.
@@ -14,7 +15,7 @@ This section gathers guides that help you monitor progress, stay informed of key
 
 This section is an ever-growing collection of useful tips and hacks, so here's a few top highlights:
 
-| **[Alerts & Events →](alerts-events/index.md)** | 
+| **[Alerts & Events →](/guides/optimize-workflow/alerts-events/)** | 
 |---|
 | Learn how Inductiva keeps you informed. Explore the difference between Inductiva Alerts (system-defined) and Simulation Observer Events (user-defined), understand how they work together, and customize how and when you’re notified. |
 
@@ -27,6 +28,5 @@ This section is an ever-growing collection of useful tips and hacks, so here's a
 ✓ **Automate monitoring:** Let Inductiva track your simulations for you through configurable events and notifications.
 
 
-```{banner}
-:origin: optimize_workflow_index
-```
+::docsbanner
+::

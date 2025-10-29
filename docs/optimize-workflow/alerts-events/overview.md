@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Alerts & Events 🔔
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# 🔔 Alerts & Events
 
 Inductiva provides a flexible alert system to keep users informed about important events in their simulations and account activity. Alerts can notify of issues that require attention, or confirm that expected events have occurred.
 There are two types of alerts:
@@ -19,16 +17,6 @@ Depending on the alert type, notifications may be sent by email, shown in the we
 * [Simulation Observer Events](sections/observer-events.md)
 
 
-```{banner}
-:origin: optimize_workflow_alerts_events
-```
+::docsbanner
+::
 
-```{toctree}
----
-caption: Alerts & Events
-maxdepth: 2
-hidden: true
----
-sections/alerts
-sections/observer-events
-```
