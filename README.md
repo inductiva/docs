@@ -83,6 +83,8 @@ navigation:
 ```
 In this case, title will be the text shown on the menu (optional).
 
+> **Note**: Since index files do not show on the url we have some less than ideal behaviours with url links. For example, if you are at `/guides/recipes` the borwser thinks recipes is a file (because index is omited). So, if you have a relative link to `./storage-related/` it will not work because the browser will look for `/guides/storage-related/` instead of `/guides/recipes/storage-related/`. To avoid this, either use absolute links (starting with /).
+
 ### Menu Structure
 
 - Subfolders inside a simulator folder create **submenus** on the final website.  

@@ -1,8 +1,6 @@
 ---
 title: Clean Up Storage by Condition 🗑️
 description: ""
-navigation:
-  show: true
 seo:
  title: “”
  description: “”
