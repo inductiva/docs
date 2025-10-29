@@ -1,4 +1,13 @@
-# Get Started
+---
+title: Get Started
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 ## Get started
 🚀 New to Inductiva? This section is your launchpad.
@@ -7,7 +16,7 @@ researcher looking to streamline your workflow, the Get Started guide will walk 
 through the essential steps from signing up to running your first task. It’s designed 
 to make your onboarding simple, intuitive, and productive from day one.
 
-| **[Install →](install-guide.md)** | **[Quick-start →](quick-start-guide.md)** | **[Start a cloud machine →](start-first-machine.md)** |
+| **[Install →](/guides/get-started/install-guide)** | **[Quick-start →](/guides/get-started/quick-start-guide)** | **[Start a cloud machine →](/guides/get-started/start-first-machine)** |
 |---|---|---|
 | A simple and fast guide to help you install the Inductiva Python package in two quick commands. | Launch your first simulation in minutes. This hands-on walkthrough covers uploading input files, selecting a machine, and running a ready-to-use simulator. | Learn how to spin up your first virtual machine in the cloud. |
 
@@ -25,6 +34,6 @@ advanced workflows.
 confidently. 
 
 
-```{banner}
-:origin: get_started_index
-```
+::docsbanner
+::
+
