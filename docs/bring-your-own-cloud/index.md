@@ -1,12 +1,12 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Guide to Bringing Your Own Cloud
 description: ""
+navigation:
+  show: true
 seo:
  title: “”
  description: “”
 ---
-
-# Guide to Bringing Your Own Cloud
 
 ## Get started
 Inductiva lets you connect your own cloud provider account, namely to export simulation 
@@ -14,7 +14,7 @@ files directly to your own AWS S3 bucket.
 While full Bring Your Own Cloud (BYOC) compute is not currently supported, this export 
 feature is a first step toward deeper integration with your own infrastructure.
 
-**[Export files to AWS →](export-files-to-aws/index.md):** This guide streamlines transfering files to an AWS S3 account.  
+**[Export files to AWS →](/guides/bring-your-own-cloud/export-files-to-aws/):** This guide streamlines transfering files to an AWS S3 account.  
  
 
 ## Why it's Useful
@@ -24,7 +24,5 @@ feature is a first step toward deeper integration with your own infrastructure.
 
 ✓ **Smooth integration:** Simplifies integration with downstream processes or pipelines hosted on AWS.
 
-
-```{banner}
-:origin: byoc-index
-```
+::docsbanner
+::

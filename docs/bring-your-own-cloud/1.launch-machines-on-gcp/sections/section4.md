@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Command Line Usage
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Command Line Usage
 
 > **⚠️ Important**: When using BYOC, you are responsible for all costs incurred by VMs running in your GCP account. Always monitor your GCP console and consider setting up billing alerts to track usage and costs.
 
@@ -82,6 +80,6 @@ inductiva task-runner launch short-lived-machine \
     --spot
 ```
 
-```{banner_small}
-:origin: launch_machines_on_gcp_sec3
-```
+::docsbannersmall
+::
+

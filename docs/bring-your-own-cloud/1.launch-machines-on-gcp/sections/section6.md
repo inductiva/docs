@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: FAQ
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Frequently Asked Questions (FAQ)
 
 ## General Questions
 
@@ -269,6 +267,6 @@ inductiva task-runner launch short-lived-machine \
 - **Improved cost reporting** 
 - **Additional cloud providers** beyond GCP
 
-```{banner_small}
-:origin: launch_machines_on_gcp_faq
-```
+::docsbannersmall
+::
+

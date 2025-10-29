@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: FAQ
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Frequently Asked Questions (FAQ)
 
 ## General Questions
 
@@ -279,6 +277,6 @@ inductiva task-runner launch short-lived-machine \
 
 BYOC is currently in **alpha release**. While it's functional and secure, it has the limitations mentioned above. We recommend using it for development and testing, and monitoring the release notes for production-ready features.
 
-```{banner_small}
-:origin: launch_machines_on_gcp_faq
-```
+::docsbannersmall
+::
+

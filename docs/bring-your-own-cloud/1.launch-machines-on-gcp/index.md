@@ -1,12 +1,12 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Launching Machines on Your Own GCP Account
 description: ""
+navigation:
+  show: true
 seo:
  title: “”
  description: “”
 ---
-
-# Launching Machines on Your Own GCP Account
 
 Inductiva's Bring Your Own Cloud (BYOC) feature allows you to launch and manage compute machines directly on your own Google Cloud Platform (GCP) account. This gives you full control over your compute resources while leveraging Inductiva's task management and simulation capabilities. Your GCP credentials never leave your local machine, ensuring maximum security and privacy.
 
@@ -23,19 +23,19 @@ BYOC enables you to:
 Before you begin, ensure you have:
 
 - **A Google Cloud Platform (GCP) account** with a valid billing account attached
-- **Inductiva Python client** installed: See the [Installation Guide](../../../how-it-works/get-started/install-guide.md) for detailed instructions.
+- **Inductiva Python client** installed: See the [Installation Guide](/guides/get-started/install-guide) for detailed instructions.
 
 ## Get Started
 
-**[How It Works](sections/section1.md):** Detailed explanation of the BYOC architecture and security model.
+**[How It Works](/guides/bring-your-own-cloud/launch-machines-on-gcp/sections/section1):** Detailed explanation of the BYOC architecture and security model.
 
-**[Installation and Setup](sections/section2.md):** Installation steps, permissions, GCP CLI configuration, testing, and disclaimers.
+**[Installation and Setup](/guides/bring-your-own-cloud/launch-machines-on-gcp/sections/section2):** Installation steps, permissions, GCP CLI configuration, testing, and disclaimers.
 
-**[Python Client Usage](sections/section3.md):** Create and manage BYOC machine groups using the Inductiva Python client.
+**[Python Client Usage](/guides/bring-your-own-cloud/launch-machines-on-gcp/sections/section3):** Create and manage BYOC machine groups using the Inductiva Python client.
 
-**[Command Line Usage](sections/section4.md):** Launch and manage BYOC machine groups using the Inductiva CLI.
+**[Command Line Usage](/guides/bring-your-own-cloud/launch-machines-on-gcp/sections/section4):** Launch and manage BYOC machine groups using the Inductiva CLI.
 
-**[Frequently Asked Questions](sections/section5.md):** Comprehensive FAQ covering setup, usage, troubleshooting, limitations, and common questions about BYOC on GCP.
+**[Frequently Asked Questions](/guides/bring-your-own-cloud/launch-machines-on-gcp/sections/section5):** Comprehensive FAQ covering setup, usage, troubleshooting, limitations, and common questions about BYOC on GCP.
 
 ## Disclaimer
 
@@ -55,15 +55,6 @@ When using BYOC, you are responsible for:
 
 **Recommendation:** Always monitor your GCP console and set up billing alerts to track usage and costs.
 
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-sections/section5.md
-```
+::docsbanner
+::
 
-```{banner}
-:origin: launch_machines_on_gcp
-```

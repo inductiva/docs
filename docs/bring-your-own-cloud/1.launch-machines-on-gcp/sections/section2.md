@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Installation and Setup
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Installation and Setup
 
 ## Required Permissions
 
@@ -94,6 +92,6 @@ gcloud compute instances list --limit=1
 If all commands execute without errors, your setup is ready for BYOC.
 
 
-```{banner_small}
-:origin: launch_machines_on_gcp_sec1b
-```
+::docsbannersmall
+::
+

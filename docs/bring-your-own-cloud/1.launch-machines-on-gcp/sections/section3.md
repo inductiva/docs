@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Python Client Usage
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Python Client Usage
 
 > **⚠️ Important**: When using BYOC, you are responsible for all costs incurred by VMs running in your GCP account. Always monitor your GCP console and consider setting up billing alerts to track usage and costs.
 
@@ -133,6 +131,5 @@ for i in range(3):
     task = simulator.run(input_dir=input_dir, on=mg)
 ```
 
-```{banner_small}
-:origin: launch_machines_on_gcp_sec2
-```
+::docsbannersmall
+::

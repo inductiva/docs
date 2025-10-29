@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: How It Works
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# How It Works
 
 When you create a BYOC machine group, Inductiva creates a VM instance in your GCP account that runs a **task-runner container**. This container acts as a bridge between your GCP infrastructure and Inductiva's backend services. 
 
@@ -25,6 +23,6 @@ Here's the flow:
 
 For more detailed information about the task-runner, see the [Task-Runner Guide](../../use-local-task-runner/index.md).
 
-```{banner_small}
-:origin: launch_machines_on_gcp_sec1b
-```
+::docsbannersmall
+::
+
