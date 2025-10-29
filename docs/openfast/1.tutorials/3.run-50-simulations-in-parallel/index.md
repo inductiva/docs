@@ -1,8 +1,11 @@
 ---
-og:image: "https://inductiva.ai/builds/openfast/_static/openfast_animation_30_fps.gif"
+title: Run 50 simulations in parallel
+description: ""
+seo:
+ title: ""
+ description: ""
 ---
 
-# Run 50 simulations in parallel
 If you only need to run a single OpenFAST simulation, then you should run it on your desktop machine: it will be faster there due to the much higher 
 clock speeds. However, if you need to run hundreds or thousands of OpenFAST simulations, you can use the Inductiva API to spin up hundreds of very cheap cloud machines 
 to run all these simulations in parallel, instead of running them sequentially on your machine! This is hundreds of times faster. And it is super easy 
@@ -12,7 +15,7 @@ In this tutorial, we are going to show you how you can
 use the Inductiva API to accelerate your OpenFAST projects, by showing how to
 run dozens of simulations in parallel.
 
-<p align="center"><img src="../_static/openfast_animation_30_fps.gif" alt="OpenFAST simulation visualization" width="700"></p>
+![OpenFAST simulation visualization](openfast/openfast_animation_30_fps.gif)
 
 To demonstrate this, we will use the [`5MW_OC4Semi_WSt_WavesWN`](https://github.com/OpenFAST/r-test/tree/v4.0.2/glue-codes/openfast/5MW_OC4Semi_WSt_WavesWN) example, available on the [OpenFAST GitHub repository](https://github.com/openfast).
 
@@ -26,15 +29,5 @@ The tutorial is divided into the following sections:
 - [Launch and manage 50 simulations in parallel on the cloud](sections/section4)
 - [Post-process and analyze simulation results](sections/section5)
 
-```{banner_small}
-:origin: openfast
-```
-
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-sections/section5.md
-```
+::docsbannersmall
+::

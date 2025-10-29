@@ -1,5 +1,5 @@
 ---
-title: IDA at Scale: Seismic Assessment of URM Structures
+title: IDA at Scale - Seismic Assessment of URM Structures
 description: ""
 seo:
  title: ""
