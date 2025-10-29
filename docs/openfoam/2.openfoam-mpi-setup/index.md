@@ -1,4 +1,11 @@
-# MPI Behaviour in OpenFOAM
+---
+title: MPI Behaviour in OpenFOAM
+description: ""
+seo:
+ title: ""
+ description: ""
+---
+
 Inductiva supports two OpenFOAM distributions: **ESI** and **Foundation**. Both use MPI in the background when executing the `runParallel` command for parallel simulations, but they differ in how MPI is invoked.
 
 ## Behaviour by Distribution
@@ -30,12 +37,5 @@ The variation in how MPI is invoked causes different behaviours between OpenFOAM
 
 > Learn more about MPI on computational resources [here](https://inductiva.ai/guides/how-it-works/machines/mpi-on-vms).
 
-```{banner_small}
-:origin: openfoam
-```
-
-```{toctree}
-:hidden:
-sections/openfoam-esi.md
-sections/openfoam-foundation.md
-```
+::docsbanner
+::

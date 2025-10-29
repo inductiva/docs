@@ -1,4 +1,11 @@
-# Run occDrivAerStaticMesh from the OpenFOAM HPC Benchmark Suite
+---
+title: Run occDrivAerStaticMesh from the OpenFOAM HPC Benchmark Suite
+description: ""
+seo:
+ title: ""
+ description: ""
+---
+
 The **occDrivAerStaticMesh simulation** focuses on the open-closed cooling (occ) variant of the DrivAer model -
 an industrially relevant benchmark case that represents a full-scale passenger vehicle with static wheels and sealed cooling inlets.
 
@@ -21,14 +28,6 @@ using the **Inductiva API**.
 
 👉 Check out our [blog post](https://inductiva.ai/blog/article/from-supercomputer-to-cloud-a-new-era-for-openfoam-simulations) for the full story.
 
-```{banner_small}
-:origin: openfoam
-```
+::docsbanner
+::
 
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-```

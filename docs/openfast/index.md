@@ -23,9 +23,9 @@ Step-by-step guides to help you learn how to run OpenFAST through the Inductiva 
 * **Getting Started**
     - [Test Your Inductiva Setup](1.tutorials/0.setup-test.md)
     - [Run Your First Simulation](1.tutorials/1.quick-start.md)
-    - [Build a DLL file](1.tutorials/2.build-dll-file.md)
 
 * **Advanced Tutorials**
+    - [Build a DLL file](1.tutorials/2.build-dll-file.md)
     - [Run 50 simulations in parallel](1.tutorials/3.run-50-simulations-in-parallel/index.md)
     - [Generate a TurbSim Dataset](1.tutorials/4.generate-turbsim-dataset/index.md)
     - [TurbSim Visualization](2.visualization/0.turbsim-visualization.md)
