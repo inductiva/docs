@@ -2,6 +2,7 @@
 title: Projects
 description: ""
 navigation:
+  title: Overview
   show: true
 seo:
  title: “”
