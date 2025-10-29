@@ -188,12 +188,16 @@
           "path": "projects/"
         },
         {
-          "title": "Save Costs",
-          "path": "save-costs/"
-        },
-        {
           "title": "Recipes",
           "path": "recipes/"
+        },
+        {
+          "title": "Optimize Workflow",
+          "path": "optimize-workflow/"
+        },
+        {
+          "title": "Save Costs",
+          "path": "save-costs/"
         },
         {
           "title": "Generate Dataset",
@@ -234,6 +238,16 @@
           "path": "api-functions/api/"
         }
       ]
-    }
+    },
+    {
+      "title": "Release Notes",
+      "children": [
+        {
+          "title": "Releases",
+          "path": "release-notes/releases/"
+        }
+      ],
+      "groupWith": "API Functions"
+  }
   ]
 }
