@@ -18,10 +18,10 @@ high-performance computing environments, pre-generated meshes at multiple resolu
 reproducible simulations.
 
 In this tutorial, we'll walk through how to:
-- [Review the prerequisites for running the occDrivAerStaticMesh case](sections/section1)
-- [Run the simulation on a single-machine](sections/section2)
-- [Prepare the simulation for execution on an MPI cluster](sections/section3)
-- [Scale the simulation across multiple machines](sections/section4)
+- [Review the prerequisites for running the occDrivAerStaticMesh case](0.section1.md)
+- [Run the simulation on a single-machine](1.section2.md)
+- [Prepare the simulation for execution on an MPI cluster](2.section3.md)
+- [Scale the simulation across multiple machines](3.section4.md)
 
 This guide is divided into a few straightforward steps. Follow along to explore the performance and scalability of this simulation
 using the **Inductiva API**.
