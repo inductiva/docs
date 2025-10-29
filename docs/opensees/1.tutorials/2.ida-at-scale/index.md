@@ -1,4 +1,10 @@
-# IDA at Scale: Seismic Assessment of URM Structures
+---
+title: IDA at Scale: Seismic Assessment of URM Structures
+description: ""
+seo:
+ title: ""
+ description: ""
+---
 
 This tutorial was written by [Daniel Caicedo](https://www.researchgate.net/profile/Daniel-Caicedo-5) in collaboration with the **Inductiva Team**, within the framework of the research activities of the [Stand4Heritage (S4H) Team](https://www.linkedin.com/company/stand4heritage/posts/?feedView=all)
 
@@ -31,18 +37,13 @@ from real-world events. This results in a total of 300 IDA simulations, dynamica
 
 All data used in this example was collected as part of the [STAND4HERITAGE](https://stand4heritage.org) project — New STANDards for seismic assessment of built cultural HERITAGE.
 
-<p align="center"><img src="../_static/prototype.jpeg" alt="Prototype" width="400"></p> 
+![Prototype Image](opensees/prototype.jpeg)
 
 The tutorial is divided into the following sections:
-- [Kickstart Your Simulation Workflow](sections/section1)
-- [Part 1: Case Setup](sections/section2)
-- [Part 2: Running the Simulations on the Cloud](sections/section2)
-- [Results and Key Takeaways](sections/section3)
+- [Kickstart Your Simulation Workflow](0.section1.md)
+- [Part 1: Case Setup](1.section2.md)
+- [Part 2: Running the Simulations on the Cloud](2.section3.md)
+- [Results and Key Takeaways](3.section4.md)
 
-```{toctree}
-:hidden:
-sections/section1.md
-sections/section2.md
-sections/section3.md
-sections/section4.md
-```
+::docsbanner
+::
