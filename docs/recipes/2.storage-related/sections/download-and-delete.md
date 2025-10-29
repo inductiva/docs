@@ -1,13 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Download + Delete
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Download + Delete
-
 
 For a list of tasks that take up too much storage and drain credits, use a
 simple loop to download the output files and then remove them from your cloud
@@ -26,6 +23,5 @@ It's this simple.
 > **Note**: Keep in mind that downloading the files has a cost (learn more about costs [here](https://inductiva.ai/guides/how-it-works/basics/how-much-does-it-cost)). If you can, download only the needed files instead of the whole storage. (learn more how you can do that [here](../../download-file-from-project))
 
 
-```{banner_small}
-:origin: recipes_download_and_delete
-```
+::docsbannersmall
+::

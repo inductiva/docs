@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Delete old tasks
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Delete old tasks
 
 As your project grows, older tasks may accumulate and continue occupying valuable
 storage, often without serving any ongoing purpose. If you no longer need the
@@ -37,6 +35,5 @@ for task in all_tasks:
         task.remove_remote_files()
 ```
 
-```{banner_small}
-:origin: recipes_delete_old_tasks
-```
+::docsbannersmall
+::

@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Delete failed tasks
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Delete failed tasks
 
 Over time, failed tasks can accumulate and take up unnecessary storage space. To
 free up resources, you might want to remove the storage associated with these
@@ -27,6 +25,5 @@ for task in all_tasks:
 ```
 > **Note**: You can query tasks by many different status. Learn more about a task lifecycle [here](https://inductiva.ai/guides/how-it-works/tasks/tasks-lifecycle).
 
-```{banner_small}
-:origin: recipes_delete_failed
-```
+::docsbannersmall
+::

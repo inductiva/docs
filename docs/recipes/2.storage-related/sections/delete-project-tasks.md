@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Delete Project tasks
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Delete Project tasks
 
 If you want to clean up storage used by all tasks within a specific project, you
 can loop through them and remove their remote files.This will remove both input
@@ -24,6 +22,5 @@ for task in project.get_tasks():
     task.remove_remote_files()
 ```
 
-```{banner_small}
-:origin: recipes_delete_project_tasks
-```
+::docsbannersmall
+::

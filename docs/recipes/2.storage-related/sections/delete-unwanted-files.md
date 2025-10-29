@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Cleaning Up After Simulations
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Cleaning Up After Simulations
 
 Simulations often generate a large number of temporary or intermediate files
 that are only useful during runtime. These files can consume significant
@@ -70,6 +68,5 @@ task = openfoam.run( \
     on=cloud_machine)
 ```
 
-```{banner_small}
-:origin: recipes_delete_unwanted_files
-```
+::docsbannersmall
+::

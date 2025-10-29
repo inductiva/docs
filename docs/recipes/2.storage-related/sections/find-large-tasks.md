@@ -1,12 +1,10 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Find Large projects or tasks
 description: ""
 seo:
  title: “”
  description: “”
 ---
-
-# Find Large projects or tasks
 
 It’s not always obvious which projects or tasks are consuming the most storage
 space. To help you pinpoint what’s taking up significant resources, here’s a
@@ -45,6 +43,5 @@ This script populates the `big_tasks` list with all tasks whose outputs exceed
 
 Now that you have a list of large tasks you can [download and delete](download-and-delete) them.
 
-```{banner_small}
-:origin: recipes_find_large_tasks
-```
+::docsbannersmall
+::

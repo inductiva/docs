@@ -1,12 +1,13 @@
 ---
-title: ⚙️ Welcome to OpenFOAM at Inductiva
+title: Recipes
 description: ""
+navigation:
+  title: Overview
+  show: true
 seo:
  title: “”
  description: “”
 ---
-
-# Recipes
 
 ## Get started
 ⏩ The Recipes section provides practical, ready-to-use code examples that help you 
@@ -18,7 +19,7 @@ looking to streamline their workflow!
 
 This section is an ever-growing collection of useful scripts, so here's a few top highlights:
 
-| **[Reuse input files →](reuse-files.md)** | **[Reuse output files →](reuse-files.md#how-to-reference-output-files)** | **[Clean-up Storage →](storage-related/index.md)** | 
+| **[Reuse input files →](reuse-files)** | **[Reuse output files →](reuse-files#how-to-reference-output-files)** | **[Clean-up Storage →](storage-related/)** | 
 |---|---|---|
 | Instead of uploading large inout files repeatedly, upload files once and reuse them across multiple tasks. | Reuse the output of a previous task as input of a new simulation. | This guide shows how to identify and clean up unnecessary storage. |
 
@@ -36,6 +37,5 @@ downloading outputs, or identifying heavy tasks.
 ✓ **Accelerates onboarding:** New users can quickly understand how to apply key functions.
 
 
-```{banner}
-:origin: recipes_index
-```
+::docsbanner
+::
