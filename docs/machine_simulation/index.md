@@ -1,11 +1,20 @@
-# Machine-Simulation Fit
+---
+title: Machine-Simulation Fit
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 Choosing the right computational resources for your simulation is crucial for optimal performance and cost efficiency. This section provides comprehensive guidance on matching your simulation requirements with the most suitable machine configurations.
 
 ## Get started
 Learn how to select and optimize computational resources for your specific simulation needs, from initial machine selection to post-simulation analysis.
 
-| **[Pick the Right Cloud Machine →](pick-cloud-machine.md)** | **[Benchmarks vs. System Metrics →](benchmark-sys-metrics.md)** |
+| **[Pick the Right Cloud Machine →](/guides/machine_simulation/pick-cloud-machine)** | **[Benchmarks vs. System Metrics →](/guides/machine_simulation/benchmark-sys-metrics)** |
 |---|---|
 | Navigate hundreds of available machine types to find the perfect balance of performance, cost, and specifications for your workload | Understand when to use benchmarks for upfront planning versus system metrics for post-simulation optimization |
 
@@ -21,6 +30,5 @@ Learn how to select and optimize computational resources for your specific simul
 
 ✓ **Learn from experience** Use post-simulation metrics to continuously improve your machine selection and resource allocation for future runs.
 
-```{banner}
-:origin: machine_simulation_fit
-```
+::docsbanner
+::
