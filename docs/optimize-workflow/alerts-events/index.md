@@ -1,6 +1,9 @@
 ---
 title: Alerts & Events 🔔
 description: ""
+navigation:
+    title: Overview
+    show: true
 seo:
  title: “”
  description: “”
