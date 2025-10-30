@@ -1,44 +1,35 @@
-# The Inductiva Guide to Elmer
+---
+title: The Inductiva Guide to Elmer
+description: ""
+seo:
+ title: ""
+ description: ""
+---
+
 Your resource hub for all things Elmer at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your Elmer simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
 
-```{python_editor}
-:origin: elmer_index
-:url: https://console.inductiva.ai/editor?simulator_name=elmer
-```
+::pythoneditor
+---
+origin: elmer
+text: Try our online Python Editor – run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=elmer
+---
+::
 
 ## What You'll Find Here
 
 ### Tutorials
-Step-by-step guides to help you learn how to run Elmer through the Inductiva API. From getting started to advanced tutorials, we have you covered.
+Step-by-step guides to help you learn how to run CalculiX through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](setup-test)
-    - [Run Your First Simulation](quick-start)
+    - [Test Your Inductiva Setup](1.tutorials/0.setup-test.md)
+    - [Run Your First Simulation](1.tutorials/1.quick-start.md)
 
 ### Benchmarks
-A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Elmer performs on different hardware configurations.
+A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CalculiX performs on different hardware configurations.
 
-```{banner}
-:origin: elmer_index
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-versions-and-containers
-```
-
-```{toctree}
----
-caption: 🛠️ Tutorials
-maxdepth: 2
-hidden: true
----
-setup-test
-quick-start
-```
+::docsbanner
+::

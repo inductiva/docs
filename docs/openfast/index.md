@@ -1,4 +1,10 @@
-# The Inductiva Guide to OpenFAST
+---
+title: The Inductiva Guide to OpenFAST
+description: ""
+seo:
+ title: ""
+ description: ""
+---
 
 Your resource hub for all things OpenFAST at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to **easily run hundreds of OpenFAST simulations simultaneously** and slash your development time to a fraction.
 
@@ -15,67 +21,17 @@ Inductiva simplifies research by making high-performance computing more accessib
 Step-by-step guides to help you learn how to run OpenFAST through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](setup-test)
-    - [Run Your First Simulation](quick-start)
+    - [Test Your Inductiva Setup](1.tutorials/0.setup-test.md)
+    - [Run Your First Simulation](1.tutorials/1.quick-start.md)
 
 * **Advanced Tutorials**
-    - [Run 50 simulations in parallel](run-50-simulations-in-parallel/index)
-    - [Generate a TurbSim Dataset](generate-turbsim-dataset/index)
-    - [TurbSim Visualization](turbsim-visualizationx)
+    - [Build a DLL file](1.tutorials/2.build-dll-file.md)
+    - [Run 50 simulations in parallel](1.tutorials/3.run-50-simulations-in-parallel/index.md)
+    - [Generate a TurbSim Dataset](1.tutorials/4.generate-turbsim-dataset/index.md)
+    - [TurbSim Visualization](2.visualization/0.turbsim-visualization.md)
 
 ### Benchmarks
-A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenFAST performs on different hardware configurations.
+A trusted [guide](3.benchmarks/0.benchmarks.md) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenFAST performs on different hardware configurations.
 
-
-```{banner}
-:origin: openfast
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-versions-and-containers
-```
-
-```{toctree}
----
-caption: 🛠️ OpenFast Tutorials
-maxdepth: 4
-hidden: true
----
-setup-test
-quick-start
-Run 50 Simulations in Parallel <run-50-simulations-in-parallel/index>
-```
-
-
-```{toctree}
----
-caption: 🛠️ TurbSim Tutorials
-maxdepth: 4
-hidden: true
----
-Generate TurbSim Dataset <generate-turbsim-dataset/index>
-turbsim-visualization
-```
-
-```{toctree}
----
-caption: 🚀 Benchmarks
-maxdepth: 1
-hidden: true
----
-Selecting the Right Machine for OpenFAST Simulations <benchmarks>
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-faq
-```
+::docsbanner
+::
