@@ -1,4 +1,13 @@
-# Release Notes
+---
+title: Release Notes
+description: ""
+navigation:
+  show: true
+  title: Overview
+seo:
+ title: “”
+ description: “”
+---
 
 Welcome to the Inductiva Release Notes — where we highlight new features, improvements, and key changes to the Inductiva platform. Each update brings us closer to making scientific simulations faster, clearer, and more efficient.
 
@@ -16,17 +25,7 @@ Each release note highlights new features, enhancements, and fixes designed to i
 ✓ **Stay informed:** Follow the evolution of Inductiva’s tools, containers, and infrastructure.
 
 
-```{banner}
-:origin: releasenotes_index
-```
+::docsbanner
+::
 
 
-```{toctree}
----
-caption: Releases
-maxdepth: 3
-hidden: true
----
-Overview <releases/index>
-Sep 2025 v0.18 <releases/v0-18/v0-18-0.md>
-```

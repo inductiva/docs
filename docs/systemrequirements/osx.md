@@ -1,4 +1,10 @@
-# MacOS System Prep Guide
+---
+title: MacOS System Prep Guide
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 ## Step 1: Check if Python is Installed
 
@@ -45,11 +51,6 @@ If it’s missing, we’ll go over how to install it on macOS.
     Behind your Terminal window, a pop-up should appear asking if you want to install “command line developer tools.” Follow the installation instructions and click **Install** to start.
 
     This installation can take a while (*up to an hour, depending on your internet speed*), as it includes necessary tools for running Python smoothly.
-
-
-<div align="center">
-    <img src="../../_static/dev_tools.png" alt="Developer tools install">
-</div>
 
 4. **Test Again**
 
@@ -102,10 +103,9 @@ If you saw the warning above, it’s time to update your PATH variable. This tel
 
     In this case, there’s no */Users/YOURUSERNAME/Library/Python/3.9/bin* directory listed, which means pip is not accessible from the command line. We would need to add the Python path manually to ensure smooth installation and usage.
 
-````{eval-rst}
-.. important::
-   YOURUSERNAME is your actual username, which you can find by checking the Terminal prompt or running whoami in the Terminal!
-````
+::warning
+    YOURUSERNAME is your actual username, which you can find by checking the Terminal prompt or running whoami in the Terminal!
+::
 
 2. **Add Python to PATH**
 
@@ -141,6 +141,5 @@ If you run into any issues or challenges while installing the API, please reach 
 
 You can also check out our [troubleshooting guide](https://inductiva.ai/guides/how-it-works/get-started/troubleshooting) for more information.
 
-```{banner_small}
-:origin: system_requirements_osx
-```
+::docsbannersmall
+::

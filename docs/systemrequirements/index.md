@@ -1,4 +1,10 @@
-# Getting Started: systems requirements and installation
+---
+title: Getting Started - systems requirements and installation
+description: ""
+seo:
+ title: “”
+ description: “”
+---
 
 Before diving into the installation process, it’s helpful to ensure your
 system is primed and ready for the Inductiva API.
@@ -14,11 +20,9 @@ you time and help you sidestep the most common setup challenges!
 
 ### Select your OS
 
-```{toctree}
-:titlesonly:
-osx
-windows
-```
+[MacOS System Prep Guide](osx)
+
+[Windows System Prep Guide](windows)
 
 ## Installing the inductiva Python client and authenticating
 

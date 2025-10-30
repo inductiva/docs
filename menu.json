@@ -148,31 +148,31 @@
       "children": [
         {
           "title": "The Building Blocks",
-          "path": "how-it-works/building-blocks/"
+          "path": "building-blocks/"
         },
         {
           "title": "Get Started",
-          "path": "how-it-works/get-started/"
+          "path": "get-started/"
         },
         {
           "title": "Costs and Quotas",
-          "path": "how-it-works/basics/"
+          "path": "basics/"
         },
         {
           "title": "Tasks",
-          "path": "how-it-works/tasks/"
+          "path": "tasks/"
         },
         {
           "title": "Computational Resources",
-          "path": "how-it-works/machines/"
+          "path": "machines/"
         },
         {
           "title": "Machine-Simulation Fit",
-          "path": "how-it-works/machine_simulation/"
+          "path": "machine_simulation/"
         },
         {
           "title": "Cloud Storage",
-          "path": "how-it-works/cloud-storage/"
+          "path": "cloud-storage/"
         }
       ]
     },
@@ -181,27 +181,31 @@
       "children": [
         {
           "title": "Parallel Simulations",
-          "path": "scale-up/parallel-simulations/"
+          "path": "parallel-simulations/"
         },
         {
           "title": "Projects",
-          "path": "scale-up/projects/"
-        },
-        {
-          "title": "Save Costs",
-          "path": "scale-up/save-costs/"
+          "path": "projects/"
         },
         {
           "title": "Recipes",
-          "path": "scale-up/recipes/"
+          "path": "recipes/"
+        },
+        {
+          "title": "Optimize Workflow",
+          "path": "optimize-workflow/"
+        },
+        {
+          "title": "Save Costs",
+          "path": "save-costs/"
         },
         {
           "title": "Generate Dataset",
-          "path": "scale-up/generate-dataset/generate-dataset"
+          "path": "generate-dataset/"
         },
         {
           "title": "Benchmarks",
-          "path": "scale-up/benchmark/"
+          "path": "benchmark/"
         }
       ]
     },
@@ -210,15 +214,15 @@
       "children": [
         {
           "title": "Bring Your Own Software",
-          "path": "expand/bring-your-own-software/"
+          "path": "bring-your-own-software/"
         },
         {
           "title": "Bring Your Own Hardware",
-          "path": "expand/use-local-task-runner/"
+          "path": "use-local-task-runner/"
         },
         {
           "title": "Bring Your Own Cloud",
-          "path": "expand/bring-your-own-cloud/"
+          "path": "bring-your-own-cloud/"
         }
       ]
     },
@@ -234,6 +238,16 @@
           "path": "api-functions/api/"
         }
       ]
-    }
+    },
+    {
+      "title": "Release Notes",
+      "children": [
+        {
+          "title": "Releases",
+          "path": "release-notes/"
+        }
+      ],
+      "groupWith": "API Functions"
+  }
   ]
 }
