@@ -1,12 +1,26 @@
+---
+title: Run AMR-Wind Simulations - Tutorials and Benchmarks
+description: Learn to run and scale AMR-Wind simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks to build efficient CFD workflows.
+seo:
+ title: Run AMR-Wind Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale AMR-Wind simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks to build efficient CFD workflows.
+---
+
+
 # The Inductiva Guide to AMR-Wind
 Your resource hub for all things AMR-Wind at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your AMR-Wind simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
 
-```{python_editor}
-:origin: amr_wind
-:url: https://console.inductiva.ai/editor?simulator_name=amr-wind
-```
+::pythoneditor
+---
+origin: amr_wind
+text: Try our online Python Editor – run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=amr-wind
+---
+::
+
 
 ## What You'll Find Here
 
@@ -15,65 +29,16 @@ Inductiva simplifies research by making high-performance computing more accessib
 Step-by-step guides to help you learn how to run AMR-Wind through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](setup-test)
-    - [Run Your First Simulation](quick-start)
+    - [Test Your Inductiva Setup](amr-wind/tutorials/setup-test)
+    - [Run Your First Simulation](amr-wind/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Flow Around a Circular Cylinder](run-flow-cylinder-case)
-    - [Run AMR-Wind Simulations Across Multiple Machines Using MPI](mpi-cluster-tutorial)
-    - [AMR-Wind Post-Processing](yt-for-post-processing)
+    - [Flow Around a Circular Cylinder](amr-wind/tutorials/run-flow-cylinder-case)
+    - [Run AMR-Wind Simulations Across Multiple Machines Using MPI](amr-wind/tutorials/mpi-cluster-tutorial)
+    - [AMR-Wind Post-Processing](amr-wind/visualization/yt-for-post-processing)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how AMR-Wind performs on different hardware configurations.
 
-```{banner}
-:origin: amr_wind
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-versions-and-containers
-```
-
-```{toctree}
----
-caption: 🛠️ Tutorials
-maxdepth: 2
-hidden: true
----
-setup-test
-quick-start
-Flow Around a Circular Cylinder <run-flow-cylinder-case>
-Run AMR-Wind Simulations Across Multiple Machines <mpi-cluster-tutorial>
-```
-
-```{toctree}
----
-caption: 📊 Visualization
-maxdepth: 2
-hidden: true
----
-yt for Post-processing <yt-for-post-processing>
-```
-
-```{toctree}
----
-caption: " "
-maxdepth: 1
-hidden: true
----
-faq
-```
-
-```{toctree}
----
-caption: 🚀 Benchmarks
-maxdepth: 2
-hidden: true
----
-Stable-ABL Benchmark <stable-abl/index>
-```
+::docsbanner
+::
