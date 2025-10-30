@@ -1,9 +1,6 @@
 ---
 title: NWChem Benchmark - C240 6-31G Scaling on the Cloud
-description: This benchmark evaluates the performance of the **NWChem** simulator by running the **Hybrid density functional calculation on the C240 Buckyball** simulation.  
-This NWChem simulation benchmarks the Gaussian basis set DFT module by running a
-PBE0 calculation in direct mode on the C240 system using the 6-31G\* basis set
-(3600 functions) without symmetry.
+description: ""
 seo:
  title: ""
  description: ""
@@ -12,6 +9,11 @@ seo:
 <p align="right">
     <small>Last Updated on: 2025-09-18</small>
 </p>
+
+This benchmark evaluates the performance of the **NWChem** simulator by running the **Hybrid density functional calculation on the C240 Buckyball** simulation.  
+This NWChem simulation benchmarks the Gaussian basis set DFT module by running a
+PBE0 calculation in direct mode on the C240 system using the 6-31G\* basis set
+(3600 functions) without symmetry.
 
 > **The original input files can be found [here](https://nwchemgit.github.io/c240_631gs.nw).**
 
