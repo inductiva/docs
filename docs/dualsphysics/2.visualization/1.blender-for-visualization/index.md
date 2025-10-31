@@ -14,8 +14,8 @@ However, visualizing DualSPHysics simulation results in Blender is not straightf
 
 To simplify the workflow, this guide is split into two parts:
 
-* [Part 1: Converting `.vtk` to `.obj` — Preparing simulation data for Blender](convert-to-obj)
-* [Part 2: Rendering in Blender — Importing and visualizing the converted data](render-in-blender)
+* [Part 1: Converting `.vtk` to `.obj` — Preparing simulation data for Blender](/guides/dualsphysics/visualization/blender-for-visualization/convert-to-obj)
+* [Part 2: Rendering in Blender — Importing and visualizing the converted data](/guides/dualsphysics/visualization/blender-for-visualization/render-in-blender)
 
 This approach bridges the gap between raw DualSPHysics output and professional-quality visualizations using Blender.
 

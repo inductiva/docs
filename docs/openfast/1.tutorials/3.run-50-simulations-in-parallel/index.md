@@ -23,11 +23,11 @@ This example is an extension of the reference case described in ["Definition of 
 System Development"](https://www.nrel.gov/docs/fy09osti/38060.pdf).
 
 The tutorial is divided into the following sections:
-- [Set up the example files](sections/section1)
-- [Run a single simulation using the Inductiva API](sections/section2)
-- [Generalize the use case](sections/section3)
-- [Launch and manage 50 simulations in parallel on the cloud](sections/section4)
-- [Post-process and analyze simulation results](sections/section5)
+- [Set up the example files](/guides/openfast/tutorials/run-50-simulations-in-parallel/sections/section1)
+- [Run a single simulation using the Inductiva API](/guides/openfast/tutorials/run-50-simulations-in-parallel/sections/section2)
+- [Generalize the use case](/guides/openfast/tutorials/run-50-simulations-in-parallel/sections/section3)
+- [Launch and manage 50 simulations in parallel on the cloud](/guides/openfast/tutorials/run-50-simulations-in-parallel/sections/section4)
+- [Post-process and analyze simulation results](/guides/openfast/tutorials/run-50-simulations-in-parallel/sections/section5)
 
 ::docsbannersmall
 ::

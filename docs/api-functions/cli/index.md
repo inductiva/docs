@@ -8,19 +8,19 @@ This section documents every command and flag available in Inductiva’s command
 
 The table below shows the available CLI commands alongside their corresponding Python Client APIs and documentation guide. Most functionality is available through both interfaces, allowing you to choose the tool that best fits your workflow. The CLI is ideal for quick operations, while the Python Client offers a more programmatic control and integration with your code.
 
-For detailed guidance on when to use each interface and how they work together, see our [Interfaces with the API](http://inductiva.ai/guides/how-it-works/building-blocks/index) guide.
+For detailed guidance on when to use each interface and how they work together, see our [Interfaces with the API](http://inductiva.ai/guides/how-it-works/building-blocks/) guide.
 
 | Command                         | Python Client                                                                        | Resource Guide                                                                             |
 |---------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [`auth`](auth.md)               | –                                                                                    | [Authentication Guide](https://inductiva.ai/guides/how-it-works/get-started/install-guide) |
-| [`user`](user.md)               | [Users API](https://inductiva.ai/guides/api-functions/api/inductiva.users)           | –                                                                                          |
-| [`tasks`](tasks.md)             | [Tasks API](https://inductiva.ai/guides/api-functions/api/inductiva.tasks)           | [Tasks Guide](https://inductiva.ai/guides/how-it-works/tasks/index)                        |
-| [`task-runner`](task-runner.md) | –                                                                                    | [BYOH Guide](https://inductiva.ai/guides/expand/use-local-task-runner/index)               |
-| [`projects`](projects.md)       | [Projects API](https://inductiva.ai/guides/api-functions/api/inductiva.projects)     | [Projects Guide](https://inductiva.ai/guides/scale-up/projects/index)                      |
-| [`storage`](storage.md)         | [Storage API](https://inductiva.ai/guides/api-functions/api/inductiva.storage)       | [Storage Guide](https://inductiva.ai/guides/how-it-works/intro/data_flow)                  |
-| [`resources`](resources.md)     | [Resources API](https://inductiva.ai/guides/api-functions/api/inductiva.resources)   | [Resouces Guide](https://inductiva.ai/guides/how-it-works/machines/index)                  |
-| [`simulators`](simulators.md)   | [Simulators API](https://inductiva.ai/guides/api-functions/api/inductiva.simulators) | [Simulators Guide]()                                                                       |
-| [`containers`](containers.md)   | –                                                                                    | [BYOS Guide](https://inductiva.ai/guides/expand/bring-your-own-software/index)             |
+| [`auth`](auth.md)               | –                                                                                    | [Authentication Guide](/guides/get-started/install-guide) |
+| [`user`](user.md)               | [Users API](/guides/api-functions/api/inductiva.users)           | –                                                                                          |
+| [`tasks`](tasks.md)             | [Tasks API](/guides/api-functions/api/inductiva.tasks)           | [Tasks Guide](/guides/tasks/)                        |
+| [`task-runner`](task-runner.md) | –                                                                                    | [BYOH Guide](/guides/use-local-task-runner/)               |
+| [`projects`](projects.md)       | [Projects API](/guides/api-functions/api/inductiva.projects)     | [Projects Guide](/guides/projects/)                      |
+| [`storage`](storage.md)         | [Storage API](/guides/api-functions/api/inductiva.storage)       | [Storage Guide](/guides/intro/data_flow)                  |
+| [`resources`](resources.md)     | [Resources API](/guides/api-functions/api/inductiva.resources)   | [Resouces Guide](/guides/machines/)                  |
+| [`simulators`](simulators.md)   | [Simulators API](/guides/api-functions/api/inductiva.simulators) | [Simulators Guide]()                                                                       |
+| [`containers`](containers.md)   | –                                                                                    | [BYOS Guide](/guides/bring-your-own-software/)             |
 
 ### Notes
 
