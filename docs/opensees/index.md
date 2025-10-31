@@ -25,11 +25,11 @@ url: https://console.inductiva.ai/editor?simulator_name=opensees
 Step-by-step guides to help you learn how to run OpenSees through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/opensees/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/opensees/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [IDA at Scale - Seismic Assessment of URM Structures](tutorials/ida-at-scale/)
+    - [IDA at Scale - Seismic Assessment of URM Structures](/guides/opensees/tutorials/ida-at-scale/)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenSees performs on different hardware configurations.
