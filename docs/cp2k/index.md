@@ -28,7 +28,7 @@ Step-by-step guides to help you learn how to run CP2K through the Inductiva API.
 - [Run Your First Simulation](1.tutorials/1.quick-start)
 
 ### Benchmarks
-A trusted [guide](2.benchmarks/h2o-512/index) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CP2K performs on different hardware configurations.
+A trusted [guide](2.benchmarks/h2o-512/) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CP2K performs on different hardware configurations.
 
 ::docsbanner
 ::

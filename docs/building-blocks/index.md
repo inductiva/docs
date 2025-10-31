@@ -13,7 +13,7 @@ The Inductiva API centrally manages all your cloud resources, simulation tasks, 
 
 The following diagram illustrates this relationship:
 
-![Building Blocks](/guides/building_blocks.png)
+![Building Blocks](how-it-works/building_blocks.png)
 
 1. Start and manage remote Virtual Machines (VMs), operating either independently
 or collectively, that are equipped with pre-installed simulation software.

@@ -26,8 +26,8 @@ Step-by-step guides to help you learn how to run OpenFAST through the Inductiva 
 
 * **Advanced Tutorials**
     - [Build a DLL file](/guides/openfast/tutorials/build-dll-file)
-    - [Run 50 simulations in parallel](/guides/openfast/tutorials/run-50-simulations-in-parallel/index)
-    - [Generate a TurbSim Dataset](/guides/openfast/tutorials/generate-turbsim-dataset/index)
+    - [Run 50 simulations in parallel](/guides/openfast/tutorials/run-50-simulations-in-parallel/)
+    - [Generate a TurbSim Dataset](/guides/openfast/tutorials/generate-turbsim-dataset/)
     - [TurbSim Visualization](/guides/openfast/visualization/turbsim-visualization)
 
 ### Benchmarks

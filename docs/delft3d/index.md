@@ -32,7 +32,7 @@ Step-by-step guides to help you learn how to run Delft3D through the Inductiva A
 
 * **Advanced Tutorials**
     - [Run Delft3D with FLOW-WAVE coupling](1.tutorials/2.flow-wave-coupling)
-    - [Run the Delta-X Sediment Model](1.tutorials/3.run-delta-x-sediment-model/index)
+    - [Run the Delta-X Sediment Model](1.tutorials/3.run-delta-x-sediment-model/)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Delft3D performs on different hardware configurations.

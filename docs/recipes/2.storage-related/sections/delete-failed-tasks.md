@@ -23,7 +23,7 @@ all_tasks = inductiva.tasks.get_all(status="failed")
 for task in all_tasks:
     task.remove_remote_files()
 ```
-> **Note**: You can query tasks by many different status. Learn more about a task lifecycle [here](https://inductiva.ai/guides/tasks/tasks-lifecycle).
+> **Note**: You can query tasks by many different status. Learn more about a task lifecycle [here](/guides/tasks/tasks-lifecycle).
 
 ::docsbannersmall
 ::

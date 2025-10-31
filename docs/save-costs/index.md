@@ -18,7 +18,7 @@ experiments or large-scale production simulations, this section helps you avoid 
 optimize your budget.
 
 
-| **[Machine-Simulation Fit →](/guidesmachine_simulation/index)** | **[Clean-up Storage →](/guides/recipes/storage-related/index)** | **[Reduce Data Generation →](save_storage)** |
+| **[Machine-Simulation Fit →](/guidesmachine_simulation/)** | **[Clean-up Storage →](/guides/recipes/storage-related/)** | **[Reduce Data Generation →](save_storage)** |
 |---|---|---|
 | Choose the right computational resource for your simulation for optimal cost efficiency. | Save Storage Cost by deleting unnecessary data. | Save Storage Cost by reducing data generated in simulations. | 
 

@@ -29,7 +29,7 @@ Step-by-step guides to help you learn how to run OpenSees through the Inductiva 
     - [Run Your First Simulation](1.tutorials/1.quick-start)
 
 * **Advanced Tutorials**
-    - [IDA at Scale - Seismic Assessment of URM Structures](1.tutorials/2.ida-at-scale/index)
+    - [IDA at Scale - Seismic Assessment of URM Structures](1.tutorials/2.ida-at-scale/)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenSees performs on different hardware configurations.

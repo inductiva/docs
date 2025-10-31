@@ -108,7 +108,7 @@ for s,e,v,ini_vel,d in zip(start,end,viscosity,initialVelocity,density0):
     )
 ```
 
-We begin the script by allocating a cloud [Elastic Machine Group](https://inductiva.ai/guides/parallel-simulations/set-up-elastic-machine-group) with a minimum of 1 and a maximum of 50 machines. This setup allows 
+We begin the script by allocating a cloud [Elastic Machine Group](/guides/parallel-simulations/set-up-elastic-machine-group) with a minimum of 1 and a maximum of 50 machines. This setup allows 
 us to run up to 50 simulations in parallel. As simulations complete, the Machine Group automatically scales down, helping to keep costs to 
 a minimum.
 
