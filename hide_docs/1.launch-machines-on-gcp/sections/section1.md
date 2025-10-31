@@ -21,7 +21,7 @@ Here's the flow:
 > **What Inductiva Can See**: Even though we don’t have access to your GCP credentials, the task-runner running on your VM acts as a manager and reports machine information to Inductiva for pricing and monitoring purposes. This includes machine specifications (vCPUs, RAM, disk size), usage metrics (CPU usage, RAM usage, disk usage), runtime information (start time, last seen), live logs, and live file tracking for running simulations. This data helps Inductiva provide cost estimates and monitor machine health, but does not require access to your GCP credentials.
 
 
-For more detailed information about the task-runner, see the [Task-Runner Guide](../../use-local-task-runner/index.md).
+For more detailed information about the task-runner, see the [Task-Runner Guide](../../use-local-task-runner/index).
 
 ::docsbannersmall
 ::

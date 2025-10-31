@@ -38,7 +38,7 @@ task.print_summary()
 
 In this example, we use a `c4d-highcpu-32` machine, based on 5th Gen AMD EPYC processors (2024), equipped with 32 virtual CPUs. You can explore the full range of available machines [here](https://console.inductiva.ai/machine-groups/instance-types).
 
-> **Note**: Setting `spot=True` enables the use of [spot machines](/how-it-works/machines/spot-machines.md), which are available at substantial discounts.
+> **Note**: Setting `spot=True` enables the use of [spot machines](machines/spot-machines), which are available at substantial discounts.
 > However, your simulation may be interrupted if the cloud provider reclaims the machine.
 
 When the simulation is complete, we terminate the machine, download the results and print a summary of the simulation as shown below.
@@ -66,7 +66,7 @@ Total estimated cost (US$): 2.02 US$
 	Task orchestration fee (US$): 0.010 US$
 
 Note: A per-run orchestration fee (0.010 US$) applies to tasks run from 01 Dec 2025, in addition to the computation costs.
-Learn more about costs at: https://inductiva.ai/guides/how-it-works/basics/how-much-does-it-cost
+Learn more about costs at: https://inductiva.ai/guides/basics/how-much-does-it-cost
 ```
 
 As you can see in the "In Progress" line, the part of the timeline that represents the actual execution of the simulation, the core computation time of this simulation was approximately **3.6 hours**.

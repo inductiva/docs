@@ -77,7 +77,7 @@ We're going to break down each portion of the code for better understanding.
 ## 1. Create an Inductiva Project
 Each task in this example represents a polynya event. To keep things organized, all tasks are grouped under a single **Project**.
 
-> Learn more about `Projects` [here](/scale-up/projects/index).
+> Learn more about `Projects` [here](/projects/index).
 
 ## 2. Configure and Run Each Polynya Event
 To run tasks in parallel, we use an **ElasticMachineGroup**. Unlike the default MachineGroup, this class automatically scales between a defined minimum and maximum number of machines based on workload.
@@ -87,9 +87,9 @@ In this case, the maximum number of machines equals the number of polynya events
 This elasticity ensures efficient use of resources: faster tasks don’t have to wait for slower ones, and idle machines automatically shut down when no simulations are left in the queue.
 As a result, your computational resources stay optimized.
 
-> Learn more about the `ElasticMachineGroup` class [here](/how-it-works/machines/computational_resources/elasticgroup_class).
+> Learn more about the `ElasticMachineGroup` class [here](machines/computational_resources/elasticgroup_class).
 
-Since we’re using spot machines, simulations might occasionally be interrupted if reclaimed by the cloud provider. However, by enabling `resubmit_on_preemption=True`, any interrupted tasks are automatically retried. You can read more about this in [Understanding Preemption](/how-it-works/machines/spot-machines#understanding-preemption).
+Since we’re using spot machines, simulations might occasionally be interrupted if reclaimed by the cloud provider. However, by enabling `resubmit_on_preemption=True`, any interrupted tasks are automatically retried. You can read more about this in [Understanding Preemption](machines/spot-machines#understanding-preemption).
 
 Within the loop, each simulation is submitted, and metadata (such as event date and filename) is stored for easy reference later.
 

@@ -15,7 +15,7 @@ The Inductiva API uses Projects as the primary organizational unit for grouping 
 ## Get started
 Learn about _Projects_ — the organizational framework in the Inductiva API that groups your simulation tasks logically. Projects provide structure, organization, and simplified management for your computational workflows.
 
-| **[Projects →](/guides/projects/projects.md)** | **[Manage Programmatically →](/guides/projects/manage-projects.md)** | **[Manage in the Web Console →](/guides/projects/visualize-projects.md)** |
+| **[Projects →](/guides/projects/projects)** | **[Manage Programmatically →](/guides/projects/manage-projects)** | **[Manage in the Web Console →](/guides/projects/visualize-projects)** |
 |---|---|---|
 | Learn about Projects and how to create them | Understand how to manage and organize tasks within projects | Monitor progress and manage projects using the Web Console dashboard. |
 
