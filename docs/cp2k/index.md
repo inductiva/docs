@@ -24,11 +24,11 @@ url: https://console.inductiva.ai/editor?simulator_name=cp2k
 ### Tutorials
 Step-by-step guides to help you learn how to run CP2K through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
-- [Test Your Inductiva Setup](tutorials/setup-test)
-- [Run Your First Simulation](tutorials/quick-start)
+- [Test Your Inductiva Setup](/guides/cp2k/tutorials/setup-test)
+- [Run Your First Simulation](/guides/cp2k/tutorials/quick-start)
 
 ### Benchmarks
-A trusted [guide](benchmarks/h2o-512/) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CP2K performs on different hardware configurations.
+A trusted [guide](/guides/cp2k/benchmarks/h2o-512/) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CP2K performs on different hardware configurations.
 
 ::docsbanner
 ::

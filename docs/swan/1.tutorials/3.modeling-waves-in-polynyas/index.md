@@ -17,10 +17,10 @@ In this tutorial, we’ll focus on two key simulation scenarios:
 - **S2_f5** — Full ice scenario, where frazil and grease ice are included, and an ice-related dissipation term is activated with a specific parameter setting (power-law exponent = 5).
 
 The tutorial is organized into the following parts:
-- [Set up the example files](/guides/swan/tutorials/modeling-waves-in-polynyas/section1)
-- [Run the Scenarios on Inductiva](/guides/swan/tutorials/modeling-waves-in-polynyas/section2)
-- [Evaluate the Impact of Hyper-threading](/guides/swan/tutorials/modeling-waves-in-polynyas/section3)
-- [Run All Simulations from Scenario S2_f5 in Parallel](/guides/swan/tutorials/modeling-waves-in-polynyas/section4)
+- [Set up the example files](/guides/swan/tutorials/modeling-waves-in-polynyas/section0)
+- [Run the Scenarios on Inductiva](/guides/swan/tutorials/modeling-waves-in-polynyas/section1)
+- [Evaluate the Impact of Hyper-threading](/guides/swan/tutorials/modeling-waves-in-polynyas/section2)
+- [Run All Simulations from Scenario S2_f5 in Parallel](/guides/swan/tutorials/modeling-waves-in-polynyas/section3)
 
 Let's get started!
 
