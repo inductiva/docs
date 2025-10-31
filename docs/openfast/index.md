@@ -31,7 +31,7 @@ Step-by-step guides to help you learn how to run OpenFAST through the Inductiva 
     - [TurbSim Visualization](/guides/openfast/visualization/turbsim-visualization)
 
 ### Benchmarks
-A trusted [guide](/guides/openfast/benchmarks/0.benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenFAST performs on different hardware configurations.
+A trusted [guide](/guides/openfast/benchmarks/benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenFAST performs on different hardware configurations.
 
 ::docsbanner
 ::
