@@ -77,7 +77,7 @@ We're going to break down each portion of the code for better understanding.
 ## 1. Create an Inductiva Project
 Each task in this example represents a polynya event. To keep things organized, all tasks are grouped under a single **Project**.
 
-> Learn more about `Projects` [here](/projects/).
+> Learn more about `Projects` [here](/guides/projects/).
 
 ## 2. Configure and Run Each Polynya Event
 To run tasks in parallel, we use an **ElasticMachineGroup**. Unlike the default MachineGroup, this class automatically scales between a defined minimum and maximum number of machines based on workload.
