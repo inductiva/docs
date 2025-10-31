@@ -13,7 +13,7 @@ seo:
 🔢 The Parallel Simulations section explains how to run multiple simulations at the same time using Inductiva’s cloud infrastructure. Instead of running one task after another, you’ll learn how to launch several simulations in parallel — saving time and making better use of your computational quota. This guide walks you through batching tasks using Python or the CLI, and provides tips on organizing and monitoring multiple concurrent runs efficiently.
 
 
-| **[Parallel Tasks →](/guides/parallel-simulations/run-parallel-simulations.md)** | **[Parallel Tasks + Templating →](/guides/parallel-simulations/run-parallel-simulations-with-templating.md)** | **[Elastic MachineGroup →](/guides/parallel-simulations/set-up-elastic-machine-group.md)** | **[MPI Cluster →](/guides/parallel-simulations/set-up-mpi-cluster.md)**
+| **[Parallel Tasks →](/guides/parallel-simulations/run-parallel-simulations)** | **[Parallel Tasks + Templating →](/guides/parallel-simulations/run-parallel-simulations-with-templating)** | **[Elastic MachineGroup →](/guides/parallel-simulations/set-up-elastic-machine-group)** | **[MPI Cluster →](/guides/parallel-simulations/set-up-mpi-cluster)**
 |---|---|---|---|
 | Learn how to run multiple simulations in parallel. | This guide will walk you through using Machine Groups to run several simulations in parallel. | Set up and Manage an Elastic Machine Group. | Set up and Manage an MPI Cluster. |
 

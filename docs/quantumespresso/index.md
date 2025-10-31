@@ -26,18 +26,18 @@ url: https://console.inductiva.ai/editor?simulator_name=quantum_espresso
 Step-by-step guides to help you learn how to run Quantum ESPRESSO through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/quantumespresso/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/quantumespresso/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run the GRIR443 Benchmark](tutorials/run-grir443-benchmark)
-    - [Run GRIR443 on an MPI Cluster](tutorials/run-grir443-on-mpi)
+    - [Run the GRIR443 Benchmark](/guides/quantumespresso/tutorials/run-grir443-benchmark)
+    - [Run GRIR443 on an MPI Cluster](/guides/quantumespresso/tutorials/run-grir443-on-mpi)
 
 * **Webinars**
-    - [Quantum ESPRESSO on Inductiva](watch-and-learn/quantumespresso-video-tutorial)
+    - [Quantum ESPRESSO on Inductiva](/guides/quantumespresso/watch-and-learn/quantumespresso-video-tutorial)
 
 ### Benchmarks
-A trusted [guide](benchmarks/benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Quantum ESPRESSO performs on different hardware configurations.
+A trusted [guide](/guides/quantumespresso/benchmarks/benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Quantum ESPRESSO performs on different hardware configurations.
 
 ::docsbanner
 ::

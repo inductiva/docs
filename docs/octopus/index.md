@@ -21,8 +21,8 @@ Inductiva simplifies research by making high-performance computing more accessib
 Step-by-step guides to help you learn how to run Octopus through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/octopus/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/octopus/tutorials/quick-start)
 
 * **Advanced Tutorials**
     - [Run the e-H scattering Tutorial](/guides/gromacs/tutorials/run-the-benchPEP-h-benchmark)

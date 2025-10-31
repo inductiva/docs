@@ -24,11 +24,11 @@ url: https://console.inductiva.ai/editor?simulator_name=wrf
 Step-by-step guides to help you learn how to run WRF through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/wrf/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/wrf/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Automatically Generate GIFs from Your Simulation](visualization/gif-generation)
+    - [Automatically Generate GIFs from Your Simulation](/guides/wrf/visualization/gif-generation)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how WRF performs on different hardware configurations.

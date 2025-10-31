@@ -26,11 +26,11 @@ url: https://console.inductiva.ai/editor?simulator_name=swan
 Step-by-step guides to help you learn how to run SWAN through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/swan/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/swan/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Modeling Waves in Antarctic Polynyas](tutorials/modeling-waves-in-polynyas/)
+    - [Modeling Waves in Antarctic Polynyas](/guides/swan/tutorials/modeling-waves-in-polynyas/)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how SWAN performs on different hardware configurations.

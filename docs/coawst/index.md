@@ -24,8 +24,8 @@ url: https://console.inductiva.ai/editor?simulator_name=coawst
 ### Tutorials
 Step-by-step guides to help you learn how to run COAWST through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
-- [Test Your Inductiva Setup](1.tutorials/0.setup-test.md)
-- [Run Your First Simulation](1.tutorials/1.quick-start.md)
+- [Test Your Inductiva Setup](tutorials/setup-test)
+- [Run Your First Simulation](tutorials/quick-start)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how COAWST performs on different hardware configurations.

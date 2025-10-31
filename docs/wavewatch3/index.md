@@ -25,7 +25,7 @@ url: https://console.inductiva.ai/editor?simulator_name=wavewatch3
 ### Tutorials
 Step-by-step guides to help you learn how to run WAVEWATCH III through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
-- [Test Your Inductiva Setup](tutorials/setup-test)
+- [Test Your Inductiva Setup](/guides/wavewatch3/tutorials/setup-test)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how WAVEWATCH III performs on different hardware configurations.

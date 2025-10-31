@@ -26,12 +26,12 @@ url: https://console.inductiva.ai/editor?simulator_name=splishsplash
 Step-by-step guides to help you learn how to run SPlisHSPlasH through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/splishsplash/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/splishsplash/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Generate Synthetic Data for Physics-Informed ML](tutorials/synthetic-data-for-piml/)
-    - [Visualizing SPlisHSPlasH Simulations with Python](visualization/vis-with-python)
+    - [Generate Synthetic Data for Physics-Informed ML](/guides/splishsplash/tutorials/synthetic-data-for-piml/)
+    - [Visualizing SPlisHSPlasH Simulations with Python](/guides/splishsplash/visualization/vis-with-python)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how SPlisHSPlasH performs on different hardware configurations.
