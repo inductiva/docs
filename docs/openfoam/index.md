@@ -10,10 +10,14 @@ Your resource hub for all things OpenFOAM at Inductiva. Whether you're just star
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check!
 
-```{python_editor}
-:origin: openfoam
-:url: https://console.inductiva.ai/editor?simulator_name=openfoam
-```
+::pythoneditor
+---
+origin: openfoam
+text: Try our online Python Editor – run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=openfoam
+---
+::
 
 ## What You'll Find Here
 

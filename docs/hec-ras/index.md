@@ -10,10 +10,14 @@ Your resource hub for all things HEC-RAS at Inductiva. Whether you're just start
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
 
-```{python_editor}
-:origin: hec-ras
-:url: https://console.inductiva.ai/editor?simulator_name=hec_ras
-```
+::pythoneditor
+---
+origin: hec-ras
+text: Try our online Python Editor – run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=hec-ras
+---
+::
 
 ### Tutorials
 Step-by-step guides to help you learn how to run HEC-RAS through the Inductiva API. From getting started to advanced tutorials, we have you covered.
