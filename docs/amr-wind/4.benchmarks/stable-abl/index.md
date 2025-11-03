@@ -71,5 +71,5 @@ The benchmark was conducted on the following machine series:
 
 
 See the results of the benchmark on the following pages:
-- [Execution Times Comparison](/guides/amr-wind/benchmarks/exec-time)
-- [Cost vs Time](/guides/amr-wind/benchmarks/cost-v-time)
+- [Execution Times Comparison](/guides/amr-wind/benchmarks/stable-abl/exec-time)
+- [Cost vs Time](/guides/amr-wind/benchmarks/stable-abl/cost-v-time)
