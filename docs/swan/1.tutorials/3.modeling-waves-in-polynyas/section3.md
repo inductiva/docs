@@ -87,9 +87,9 @@ In this case, the maximum number of machines equals the number of polynya events
 This elasticity ensures efficient use of resources: faster tasks don’t have to wait for slower ones, and idle machines automatically shut down when no simulations are left in the queue.
 As a result, your computational resources stay optimized.
 
-> Learn more about the `ElasticMachineGroup` class [here](machines/computational_resources/elasticgroup_class).
+> Learn more about the `ElasticMachineGroup` class [here](/guides/machines/resources/elasticgroup_class).
 
-Since we’re using spot machines, simulations might occasionally be interrupted if reclaimed by the cloud provider. However, by enabling `resubmit_on_preemption=True`, any interrupted tasks are automatically retried. You can read more about this in [Understanding Preemption](machines/spot-machines#understanding-preemption).
+Since we’re using spot machines, simulations might occasionally be interrupted if reclaimed by the cloud provider. However, by enabling `resubmit_on_preemption=True`, any interrupted tasks are automatically retried. You can read more about this in [Understanding Preemption](/guides/machines/spot-machines#understanding-preemption).
 
 Within the loop, each simulation is submitted, and metadata (such as event date and filename) is stored for easy reference later.
 
