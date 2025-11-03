@@ -25,7 +25,7 @@ Step-by-step guides to help you learn how to run Octopus through the Inductiva A
     - [Run Your First Simulation](/guides/octopus/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run the e-H scattering Tutorial](/guides/gromacs/tutorials/run-the-benchPEP-h-benchmark)
+    - [Run the e-H scattering Tutorial](/guides/octopus/tutorials/run-e-h-scattering-tutorial)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Octopus performs on different hardware configurations.
