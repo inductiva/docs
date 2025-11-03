@@ -12,7 +12,7 @@ We pick up from the [Generate the Dataset](../tutorials/synthetic-data-for-piml/
 We'll start by showing how to convert individual simulation outputs into visually appealing GIFs. Then, we'll demonstrate how 
 to combine multiple GIFs into a single animation.
 
-![Visualization of 9 simulations](splishsplash/combined_3_3.gif)
+:raw-img{src="/splishsplash/combined_3_3.gif" alt="Visualization of 9 simulations" center}
 
 ::docsbannersmall
 ::

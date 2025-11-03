@@ -73,5 +73,5 @@ The benchmark was conducted on the following machine series:
 - For the **C2 series**, only the `standard` configuration was tested, as `highcpu` variants are not available.
 
 See the results of the benchmark on the following pages:
-- [Execution Times Comparison](/guides/nwchem/benchmarksexec-time)
-- [Cost vs Time](/guides/nwchem/benchmarkscost-v-time)
+- [Execution Times Comparison](/guides/nwchem/benchmarks/c240_631gs/exec-time)
+- [Cost vs Time](/guides/nwchem/benchmarks/c240_631gs/cost-v-time)

@@ -25,7 +25,7 @@ Step-by-step guides to help you learn how to run GROMACS through the Inductiva A
     - [Run Your First Simulation](/guides/gromacs/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run the benchPEP-h Benchmark](/guides/gromacs/tutorials/run-the-benchPEP-h-benchmark)
+    - [Run the benchPEP-h Benchmark](/guides/gromacs/tutorials/run-the-benchpep-h-benchmark)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how GROMACS performs on different hardware configurations.

@@ -85,7 +85,7 @@ it means we’ll need to update the **PATH environment variable** to make sure P
 
 ### Add Python to Your PATH
 
-If you saw the warning above, it’s time to update your PATH variable. This tells your system where to find Python binaries, like pip, and ensures [Inductiva’s Command Line Interface](/guides/api-functions/cli/) can be accessed later on.
+If you saw the warning above, it’s time to update your PATH variable. This tells your system where to find Python binaries, like pip, and ensures Inductiva’s Command Line Interface can be accessed later on.
 
 1. **Check Your Current PATH**
 
