@@ -25,12 +25,12 @@ url: https://console.inductiva.ai/editor?simulator_name=swash
 ### Tutorials
 Step-by-step guides to help you learn how to run SWASH through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
-- [Test Your Inductiva Setup](tutorials/setup-test)
-- [Run Your First Simulation](tutorials/quick-start)
-- [Track Errfile for Error Monitoring](tutorials/track-errfile)
+- [Test Your Inductiva Setup](/guides/swash/tutorials/setup-test)
+- [Run Your First Simulation](/guides/swash/tutorials/quick-start)
+- [Track Errfile for Error Monitoring](/guides/swash/tutorials/track-errfile)
 
 ### Benchmarks
-A trusted [guide](benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how SWASH performs on different hardware configurations.
+A trusted [guide](/guides/swash/benchmarks/benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how SWASH performs on different hardware configurations.
 
 ::docsbanner
 ::

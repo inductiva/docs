@@ -24,8 +24,8 @@ url: https://console.inductiva.ai/editor?simulator_name=nwchem
 ### Tutorials
 Step-by-step guides to help you learn how to run NWChem through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
-- [Test Your Inductiva Setup](tutorials/setup-test)
-- [Run Your First Simulation](tutorials/quick-start)
+- [Test Your Inductiva Setup](/guides/nwchem/tutorials/setup-test)
+- [Run Your First Simulation](/guides/nwchem/tutorials/quick-start)
 
 ### Benchmarks
 A trusted [guide](/guides/nwchem/benchmarks/c240_631gs) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how NWChem performs on different hardware configurations.

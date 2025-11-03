@@ -15,9 +15,9 @@ The study includes the Delft3D model for **Site 294** in the **Terrebonne Basin 
 This case is large-scale, realistic, and scientifically validated. Unlike many research examples, the full case is publicly available via **NASA’s ORNL DAAC**, including forcing data, boundary conditions, bathymetry, sediment parameters, and ready-to-run Delft3D input files. The model couples hydrodynamics, sediment transport, and morphodynamics, making it an ideal example for demonstrating how **Inductiva** can **accelerate scientific workflows**, from launching simulations to efficiently generating results.
 
 This tutorial focuses on executing the 2021 Spring deployment across multiple computational resources and is organized into three parts:
-- [Set up the example files](0.section1.md)
-- [Run the Case on Inductiva](1.section2.md)
-- [Evaluate the Impact of Hyper-threading](2.section3.md)
+- [Set up the example files](/guides/delft3d/tutorials/run-delta-x-sediment-model/section1)
+- [Run the Case on Inductiva](/guides/delft3d/tutorials/run-delta-x-sediment-model/section2)
+- [Evaluate the Impact of Hyper-threading](/guides/delft3d/tutorials/run-delta-x-sediment-model/section3)
 
 Let's get started!
 

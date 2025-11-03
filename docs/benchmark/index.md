@@ -14,7 +14,7 @@ The Inductiva API provides a benchmarking tool to help you measure, compare, and
 ## Get started
 Learn about _Benchmarks_ — the class in the Inductiva API for systematically evaluating simulation performance across different machine types, configurations, and parameters.
 
-| **[Benchmarks →](benchmarking)** | **[Run a Benchmark →](run-benchmarks)** | **[Check Progress & Results →](monitor-live)** |
+| **[Benchmarks →](/guides/benchmark/benchmarking)** | **[Run a Benchmark →](/guides/benchmark/run-benchmarks)** | **[Check Progress & Results →](/guides/benchmark/monitor-live)** |
 |---|---|---|
 | Learn about Benchmarks and how you can use them to find the optimal simulation configuration. | Follow a step-by-step tutorial to set up, execute, and optimize your first benchmark. | Track benchmark progress, visualize results, and make informed decisions using the Inductiva Console. |
 

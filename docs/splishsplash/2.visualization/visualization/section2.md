@@ -10,7 +10,7 @@ Now that we've generated individual animations, it’s time to bring them togeth
 
 We’ll do this by combining the individual simulation GIFs into a single animated grid.
 
-![Visualization of 9 simulations](splishsplash/combined.gif)
+:raw-img{src="/splishsplash/combined.gif" alt="Visualization of 9 simulations" center}
 
 ## Creating a Combined GIF
 The Python script below takes multiple GIF files and arranges them into a grid layout, producing a single unified animation:

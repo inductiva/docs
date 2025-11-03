@@ -6,7 +6,7 @@ seo:
  description: “”
 ---
 
-In this step, we’ll build on our simple base case and generalize the simulation script to allow programmatic control over the physical parameters of the simulation. To do this, we’ll use Inductiva’s built-in [Templating System](/guides/scale-up/parallel-simulations/templating).
+In this step, we’ll build on our simple base case and generalize the simulation script to allow programmatic control over the physical parameters of the simulation. To do this, we’ll use Inductiva’s built-in [Templating System](/guides/parallel-simulations/templating).
 
 ## What is Templating?
 Templating is a powerful mechanism that lets you start with a specific simulation file, such as our base case, that contains fixed values for the parameters you want to explore. You can then transform those fixed values into variables that can be modified directly from your Python code before submitting the simulation for remote execution.

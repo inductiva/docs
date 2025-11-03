@@ -40,10 +40,10 @@ All data used in this example was collected as part of the [STAND4HERITAGE](http
 ![Prototype Image](opensees/prototype.jpeg)
 
 The tutorial is divided into the following sections:
-- [Kickstart Your Simulation Workflow](0.section1.md)
-- [Part 1: Case Setup](1.section2.md)
-- [Part 2: Running the Simulations on the Cloud](2.section3.md)
-- [Results and Key Takeaways](3.section4.md)
+- [Kickstart Your Simulation Workflow](/guides/opensees/tutorials/ida-at-scale/section1)
+- [Part 1: Case Setup](/guides/opensees/tutorials/ida-at-scale/section2)
+- [Part 2: Running the Simulations on the Cloud](/guides/opensees/tutorials/ida-at-scale/section3)
+- [Results and Key Takeaways](/guides/opensees/tutorials/ida-at-scale/section4)
 
 ::docsbanner
 ::

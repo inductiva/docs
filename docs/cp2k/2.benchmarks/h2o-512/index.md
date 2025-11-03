@@ -80,5 +80,5 @@ The benchmark was conducted on the following machine series:
 - For the **C2 series**, only the `standard` configuration was tested, as `highcpu` variants are not available.
 
 See the results of the benchmark on the following pages:
-- [Execution Times Comparison](../h2o-512/0.exec-time.md)
-- [Cost vs Time](../h2o-512/1.cost-v-time.md)
+- [Execution Times Comparison](/guides/cp2k/benchmarks/h2o-512/exec-time)
+- [Cost vs Time](/guides/cp2k/benchmarks/h2o-512/cost-v-time)

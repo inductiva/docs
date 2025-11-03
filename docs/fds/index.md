@@ -25,15 +25,15 @@ url: https://console.inductiva.ai/editor?simulator_name=fds
 Step-by-step guides to help you learn how to run FDS through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/fds/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/fds/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Scale FDS with MPI](1.tutorials/2.scaling-with-mpi.md)
-    - [Visualizing Results with Smokeview](2.visualization/0.smokeview.md)
+    - [Scale FDS with MPI](/guides/fds/tutorials/scaling-with-mpi)
+    - [Visualizing Results with Smokeview](/guides/fds/visualization/smokeview)
 
 ### Benchmarks
-A trusted [guide](3.benchmarks/0.parallelization-benchmarks.md) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how FDS performs on different hardware configurations.
+A trusted [guide](/guides/fds/benchmarks/parallelization-benchmarks) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how FDS performs on different hardware configurations.
 
 ::docsbanner
 ::

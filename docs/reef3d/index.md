@@ -26,11 +26,11 @@ url: https://console.inductiva.ai/editor?simulator_name=reef3d
 Step-by-step guides to help you learn how to run REEF3D through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/reef3d/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/reef3d/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run the 3D Dam Break Scenario with Obstacle](tutorials/run-3d-dam-break-scenario)
+    - [Run the 3D Dam Break Scenario with Obstacle](/guides/reef3d/tutorials/run-3d-dam-break-scenario)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how REEF3D performs on different hardware configurations.

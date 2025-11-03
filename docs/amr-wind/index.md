@@ -27,13 +27,13 @@ url: https://console.inductiva.ai/editor?simulator_name=amr-wind
 Step-by-step guides to help you learn how to run AMR-Wind through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/amr-wind/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/amr-wind/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Flow Around a Circular Cylinder](tutorials/run-flow-cylinder-case)
-    - [Run AMR-Wind Simulations Across Multiple Machines Using MPI](tutorials/mpi-cluster-tutorial)
-    - [AMR-Wind Post-Processing](visualization/yt-for-post-processing)
+    - [Flow Around a Circular Cylinder](/guides/amr-wind/tutorials/run-flow-cylinder-case)
+    - [Run AMR-Wind Simulations Across Multiple Machines Using MPI](/guides/amr-wind/tutorials/mpi-cluster-tutorial)
+    - [AMR-Wind Post-Processing](/guides/amr-wind/visualization/yt-for-post-processing)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how AMR-Wind performs on different hardware configurations.
