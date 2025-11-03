@@ -28,7 +28,7 @@ Step-by-step guides to help you learn how to run DualSPHysics through the Induct
     - [Run the 09_Turbine Chrono Example](/guides/dualsphysics/tutorials/run-chrono-example)
     - [Run DualSPHysics Across Different GPUs](/guides/dualsphysics/tutorials/run-on-gpu-configuration)
     - [DualSPHysics Visualizations with ParaView](/guides/dualsphysics/visualization/paraview-for-visualization)
-    - [DualSPHysics Visualizations with Blender](/guides/dualshpysics/visualization/blender-for-visualization)
+    - [DualSPHysics Visualizations with Blender](/guides/dualsphysics/visualization/blender-for-visualization)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how DualSPHysics performs on different hardware configurations.

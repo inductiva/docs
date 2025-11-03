@@ -13,7 +13,7 @@ a controlled range of wind speeds. By leveraging cloud resources, users can run 
 and accelerate the generation of CFD data for further study or integration into downstream workflows.
 
 > 📺 **Prefer video?**  
-> This guide is also available as a webinar replay, where we walk through running **OpenFOAM on Inductiva** step by step — from setup to dataset generation. [Watch the full demo here](../../webinars/openfoam-cfd-dataset)
+> This guide is also available as a webinar replay, where we walk through running **OpenFOAM on Inductiva** step by step — from setup to dataset generation. [Watch the full demo here](/guides/openfoam/webinars/openfoam-cfd-dataset)
 
 <p align="center"><img src="openfoam/bike_pressure_field.png" alt="OpenFOAM motorBike visualization" width="700"></p>
 
