@@ -14,7 +14,9 @@ By supplying these advanced inflow conditions, TurbSim significantly enhances th
 
 In this tutorial, we will demonstrate how to use the Inductiva API to efficiently generate a TurbSim dataset in parallel. This approach facilitates rapid creation of diverse inflow conditions, allowing thorough evaluation of wind turbine performance across a wide range of realistic turbulent scenarios within OpenFAST simulations.
 
-![TurbSim simulation visualization](openfast/turbsim_animation_30_fps.gif)
+<div align="center">
+    <img src="/openfast/turbsim_animation_30_fps.gif" alt="TurbSim simulation visualization">
+</div>
 
 To demonstrate this, we will use the [`5MW_Baseline`](https://github.com/OpenFAST/r-test/tree/v4.0.2/glue-codes/openfast/5MW_Baseline) wind example, which is available in the [OpenFAST GitHub repository](https://github.com/openfast).
 

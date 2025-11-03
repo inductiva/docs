@@ -15,7 +15,9 @@ In this tutorial, we are going to show you how you can
 use the Inductiva API to accelerate your OpenFAST projects, by showing how to
 run dozens of simulations in parallel.
 
-![OpenFAST simulation visualization](openfast/openfast_animation_30_fps.gif)
+<div align="center">
+    <img src="/openfast/openfast_animation_30_fps.gif" alt="OpenFAST simulation visualization">
+</div>
 
 To demonstrate this, we will use the [`5MW_OC4Semi_WSt_WavesWN`](https://github.com/OpenFAST/r-test/tree/v4.0.2/glue-codes/openfast/5MW_OC4Semi_WSt_WavesWN) example, available on the [OpenFAST GitHub repository](https://github.com/openfast).
 

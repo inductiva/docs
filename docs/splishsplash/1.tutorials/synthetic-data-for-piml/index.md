@@ -6,7 +6,9 @@ seo:
  description: “”
 ---
 
-![Visualization of all simulations](splishsplash/combined_all_small.gif)
+<div align="center">
+    <img src="/splishsplash/combined_all_small.gif" alt="Visualization of all simulations">
+</div>
 
 Training Physics-Informed Machine Learning (PIML) models often requires large, diverse datasets that reflect real-world physical behavior. However, collecting such data through experiments or high-resolution simulations can be time-consuming and expensive. That’s where **synthetic data generation** becomes essential.
 

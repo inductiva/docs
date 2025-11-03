@@ -10,7 +10,9 @@ After running the 400 simulations in [Generate the Dataset](../../tutorials/synt
 
 To simplify the process, we’ve provided a few helper scripts.
 
-![Visualization of one simulation](splishsplash/single_sim.gif)
+<div align="center">
+    <img src="/splishsplash/single_sim.gif" alt="Visualization of one simulation">
+</div>
 
 ## Step 1: Download the Simulation Results
 Start by downloading the results from the cloud using the following command:
