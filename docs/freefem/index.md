@@ -25,8 +25,8 @@ url: https://console.inductiva.ai/editor?simulator_name=freefem
 Step-by-step guides to help you learn how to run FreeFEM through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/freefem/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/freefem/tutorials/quick-start)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how FreeFEM performs on different hardware configurations.

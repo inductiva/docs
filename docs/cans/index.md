@@ -25,11 +25,11 @@ url: https://console.inductiva.ai/editor?simulator_name=cans
 Step-by-step guides to help you learn how to run CaNS through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/cans/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/cans/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run a Temporal Boundary Layer with Stable Stratification Case](tutorials/run-temporal-boundary-layer-case)
+    - [Run a Temporal Boundary Layer with Stable Stratification Case](/guides/cans/tutorials/run-temporal-boundary-layer-case)
 
 ### Benchmarks
 A trusted [guide](benchmarks/gpu-analysis-and-results) to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how CaNS performs on different hardware configurations.

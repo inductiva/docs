@@ -38,7 +38,7 @@ task.print_summary()
 
 In this example, we use a `c4d-highcpu-32` machine, based on 5th Gen AMD EPYC processors (2024), equipped with 32 virtual CPUs. You can explore the full range of available machines [here](https://console.inductiva.ai/machine-groups/instance-types).
 
-> **Note**: Setting `spot=True` enables the use of [spot machines](machines/spot-machines), which are available at substantial discounts.
+> **Note**: Setting `spot=True` enables the use of [spot machines](/guides/machines/spot-machines), which are available at substantial discounts.
 > However, your simulation may be interrupted if the cloud provider reclaims the machine.
 
 When the simulation is complete, we terminate the machine, download the results and print a summary of the simulation as shown below.

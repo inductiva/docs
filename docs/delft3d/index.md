@@ -27,12 +27,12 @@ your costs in check!
 Step-by-step guides to help you learn how to run Delft3D through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 * **Getting Started**
-    - [Test Your Inductiva Setup](tutorials/setup-test)
-    - [Run Your First Simulation](tutorials/quick-start)
+    - [Test Your Inductiva Setup](/guides/delft3d/tutorials/setup-test)
+    - [Run Your First Simulation](/guides/delft3d/tutorials/quick-start)
 
 * **Advanced Tutorials**
-    - [Run Delft3D with FLOW-WAVE coupling](tutorials/flow-wave-coupling)
-    - [Run the Delta-X Sediment Model](tutorials/run-delta-x-sediment-model/)
+    - [Run Delft3D with FLOW-WAVE coupling](/guides/delft3d/tutorials/flow-wave-coupling)
+    - [Run the Delta-X Sediment Model](/guides/delft3d/tutorials/run-delta-x-sediment-model)
 
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how Delft3D performs on different hardware configurations.
