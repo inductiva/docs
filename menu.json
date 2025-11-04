@@ -9,135 +9,135 @@
       "children": [
         {
           "title": "AMR-Wind",
-          "path": "amr-wind/"
+          "path": "amr-wind"
         },
         {
           "title": "CalculiX",
-          "path": "calculix/"
+          "path": "calculix"
         },
         {
           "title": "CaNS",
-          "path": "cans/"
+          "path": "cans"
         },
         {
           "title": "CM1",
-          "path": "cm1/"
+          "path": "cm1"
         },
         {
           "title": "COAWST",
-          "path": "coawst/"
+          "path": "coawst"
         },
         {
           "title": "CP2K",
-          "path": "cp2k/"
+          "path": "cp2k"
         },
         {
           "title": "Delft3D",
-          "path": "delft3d/"
+          "path": "delft3d"
         },
         {
           "title": "DualSPHysics",
-          "path": "dualsphysics/"
+          "path": "dualsphysics"
         },
         {
           "title": "Elmer",
-          "path": "elmer/"
+          "path": "elmer"
         },
         {
           "title": "FDS",
-          "path": "fds/"
+          "path": "fds"
         },
         {
           "title": "FreeFEM",
-          "path": "freefem/"
+          "path": "freefem"
         },
         {
           "title": "FUNWAVE",
-          "path": "funwave/"
+          "path": "funwave"
         },
         {
           "title": "FVCOM",
-          "path": "fvcom/"
+          "path": "fvcom"
         },
         {
           "title": "GROMACS",
-          "path": "gromacs/"
+          "path": "gromacs"
         },
         {
           "title": "GX",
-          "path": "gx/"
+          "path": "gx"
         },
         {
           "title": "HEC-RAS",
-          "path": "hec-ras/"
+          "path": "hec-ras"
         },
         {
           "title": "NWChem",
-          "path": "nwchem/"
+          "path": "nwchem"
         },
         {
           "title": "Octopus",
-          "path": "octopus/"
+          "path": "octopus"
         },
         {
           "title": "OpenFAST",
-          "path": "openfast/"
+          "path": "openfast"
         },
         {
           "title": "OpenFOAM",
-          "path": "openfoam/"
+          "path": "openfoam"
         },
         {
           "title": "OpenSees",
-          "path": "opensees/"
+          "path": "opensees"
         },
         {
           "title": "OpenTelemac",
-          "path": "opentelemac/"
+          "path": "opentelemac"
         },
         {
           "title": "Quantum ESPRESSO",
-          "path": "quantumespresso/"
+          "path": "quantumespresso"
         },
         {
           "title": "REEF3D",
-          "path": "reef3d/"
+          "path": "reef3d"
         },
         {
           "title": "SCHISM",
-          "path": "schism/"
+          "path": "schism"
         },
         {
           "title": "SFINCS",
-          "path": "sfincs/"
+          "path": "sfincs"
         },
         {
           "title": "SNL-SWAN",
-          "path": "snl-swan/"
+          "path": "snl-swan"
         },
         {
           "title": "SPlisHSPlasH",
-          "path": "splishsplash/"
+          "path": "splishsplash"
         },
         {
           "title": "SWAN",
-          "path": "swan/"
+          "path": "swan"
         },
         {
           "title": "SWASH",
-          "path": "swash/"
+          "path": "swash"
         },
         {
           "title": "WAVEWATCH III",
-          "path": "wavewatch3/"
+          "path": "wavewatch3"
         },
         {
           "title": "WRF",
-          "path": "wrf/"
+          "path": "wrf"
         },
         {
           "title": "XBeach",
-          "path": "xbeach/"
+          "path": "xbeach"
         }
       ]
     }
@@ -148,31 +148,31 @@
       "children": [
         {
           "title": "The Building Blocks",
-          "path": "building-blocks/"
+          "path": "building-blocks"
         },
         {
           "title": "Get Started",
-          "path": "get-started/"
+          "path": "get-started"
         },
         {
           "title": "Costs and Quotas",
-          "path": "basics/"
+          "path": "basics"
         },
         {
           "title": "Tasks",
-          "path": "tasks/"
+          "path": "tasks"
         },
         {
           "title": "Computational Resources",
-          "path": "machines/"
+          "path": "machines"
         },
         {
           "title": "Machine-Simulation Fit",
-          "path": "machine_simulation/"
+          "path": "machine_simulation"
         },
         {
           "title": "Cloud Storage",
-          "path": "cloud-storage/"
+          "path": "cloud-storage"
         }
       ]
     },
@@ -181,31 +181,31 @@
       "children": [
         {
           "title": "Parallel Simulations",
-          "path": "parallel-simulations/"
+          "path": "parallel-simulations"
         },
         {
           "title": "Projects",
-          "path": "projects/"
+          "path": "projects"
         },
         {
           "title": "Recipes",
-          "path": "recipes/"
+          "path": "recipes"
         },
         {
           "title": "Optimize Workflow",
-          "path": "optimize-workflow/"
+          "path": "optimize-workflow"
         },
         {
           "title": "Save Costs",
-          "path": "save-costs/"
+          "path": "save-costs"
         },
         {
           "title": "Generate Dataset",
-          "path": "generate-dataset/"
+          "path": "generate-dataset"
         },
         {
           "title": "Benchmarks",
-          "path": "benchmark/"
+          "path": "benchmark"
         }
       ]
     },
@@ -214,15 +214,15 @@
       "children": [
         {
           "title": "Bring Your Own Software",
-          "path": "bring-your-own-software/"
+          "path": "bring-your-own-software"
         },
         {
           "title": "Bring Your Own Hardware",
-          "path": "use-local-task-runner/"
+          "path": "use-local-task-runner"
         },
         {
           "title": "Bring Your Own Cloud",
-          "path": "bring-your-own-cloud/"
+          "path": "bring-your-own-cloud"
         }
       ]
     },
@@ -231,7 +231,7 @@
       "children": [
         {
           "title": "Releases",
-          "path": "release-notes/"
+          "path": "release-notes"
         }
       ],
       "groupWith": "Expand"
