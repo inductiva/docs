@@ -123,6 +123,9 @@ icon: i-lucide-tag
 
 Here title will control the text on the menu and icon will define an icon for that sub menu (optional).
 
+> **Note**: This navigation file will also affect the breadcrumbs, meaning, if you have a navigation file in a simulator
+folder with the title `Openfoam` in the breadcrumbs it will appear Openfoam instead of the title of the index.
+
 ## Public Folder Guidelines
 
 - All static assets (images, gifs, videos, etc.) referenced in the Markdown files should be placed under `/public/<simulator>`.  
