@@ -2,8 +2,8 @@
 title: CP2K Benchmark - H2O-512 Scaling on the Cloud
 description: This benchmark evaluates the performance of the CP2K simulator by running an ab-initio molecular dynamics (AIMD) simulation of liquid water. The test is based on the standard H2O-64 benchmark from CP2K but extended to H2O-512 (512 water molecules, 1536 atoms, 4096 electrons) to better leverage cloud scalability. 
 seo:
- title: ""
- description: ""
+ title: CP2K Benchmarks on Inductiva.AI
+ description: Explore CP2K performance benchmarks on the Inductiva.AI Cloud HPC platform. Compare scalability and cost efficiency across configurations.
 ---
 
 <p align="right">

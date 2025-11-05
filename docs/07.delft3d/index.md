@@ -1,9 +1,10 @@
 ---
 title: The Inductiva Guide to Delft3D
-description: ""
+description: Learn to run and scale Delft3D simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
 seo:
- title: ""
- description: ""
+ title: Run Delft3D Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale Delft3D simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things Delft3D at Inductiva. Whether you're just

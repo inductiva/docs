@@ -1,9 +1,10 @@
 ---
 title: The Inductiva Guide to FVCOM
-description: ""
+description: Learn to run and scale FVCOM simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
 seo:
- title: ""
- description: ""
+ title: Run FVCOM Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale FVCOM simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things FVCOM at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your FVCOM simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

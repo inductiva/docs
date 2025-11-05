@@ -2,8 +2,8 @@
 title: AMR-Wind Benchmark - Stable Atmospheric Boundary Layer Scaling on the Cloud
 description: This benchmark evaluates the performance of the AMR-Wind simulator by running a stable atmospheric boundary layer simulation. The simulation uses an uniform mesh resolution and directly follows well-established reference studies in the literature.  
 seo:
- title: AMR-Wind Benchmark - Stable Atmospheric Boundary Layer Scaling on the Cloud
- description: This benchmark evaluates the performance of the AMR-Wind simulator by running a stable atmospheric boundary layer simulation. The simulation uses an uniform mesh resolution and directly follows well-established reference studies in the literature.
+ title: AMR-Wind Benchmarks on Inductiva.AI
+ description: Explore AMR-Wind performance benchmarks on the Inductiva.AI Cloud HPC platform. Compare scalability and cost efficiency across configurations.
 ---
 
 <p align="right">
