@@ -1,10 +1,9 @@
 ---
 title: The Inductiva Guide to COAWST 🌎
-description: Learn to run and scale COAWST simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for Earth system simulations.
+description: ""
 seo:
- title: Run COAWST Simulations - Tutorials and Benchmarks
- description: Learn to run and scale COAWST simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for Earth system simulations.
- ogImage: 'public/inductiva-cover.png'
+ title: ""
+ description: ""
 ---
 
 Your resource hub for all things COAWST at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your COAWST simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
