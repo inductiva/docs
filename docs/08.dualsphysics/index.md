@@ -4,7 +4,7 @@ description: Learn to run and scale DualSPHysics simulations on the Inductiva.AI
 seo:
  title: Run DualSPHysics Simulations - Tutorials and Benchmarks
  description: Learn to run and scale DualSPHysics simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for SPH and fluid modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things DualSPHysics at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to accelerate your DualSPHysics simulations using top-tier Cloud GPUs, including **NVIDIA A100** and **H100**, or run hundreds of simulations in parallel for your design optimization projects using cost-effective Cloud GPUs such as **NVIDIA L4**.
