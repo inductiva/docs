@@ -1,9 +1,10 @@
 ---
 title: The Inductiva Guide to WRF ☔️
-description: ""
+description: Learn to run and scale WRF simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for weather modeling.
 seo:
- title: “”
- description: “”
+ title: Run WRF Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale WRF simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for weather modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things WRF at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your WRF simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

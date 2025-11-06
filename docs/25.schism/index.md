@@ -1,9 +1,10 @@
 ---
-title: The Inductiva Guide to SCHISM 🌊
-description: ""
+title: The Inductiva Guide to SCHISM
+description: Learn to run and scale SCHISM simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
 seo:
- title: “”
- description: “”
+ title: Run SCHISM Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale SCHISM simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things SCHISM at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your SCHISM simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
