@@ -110,6 +110,22 @@ This ensures `quick-start` appears before `advanced-setup` in the menu.
 
 ---
 
+### Controlling Sub-Menu text
+
+Like it was stated before, subfolders inside a simulator folder create **submenus** on the final website. This submenus will
+have the text of the index title or the folder actual name. But there is a way to control this behaviour. In order to configure a submenu
+entry just create a file called `.navigation.yml` with the following content:
+
+```
+title: Minor Versions
+icon: i-lucide-tag
+```
+
+Here title will control the text on the menu and icon will define an icon for that sub menu (optional).
+
+> **Note**: This navigation file will also affect the breadcrumbs, meaning, if you have a navigation file in a simulator
+folder with the title `Openfoam` in the breadcrumbs it will appear Openfoam instead of the title of the index.
+
 ## Public Folder Guidelines
 
 - All static assets (images, gifs, videos, etc.) referenced in the Markdown files should be placed under `/public/<simulator>`.  
