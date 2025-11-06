@@ -10,10 +10,14 @@ Your resource hub for all things Octopus at Inductiva. Whether you're just start
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
 
-```{python_editor}
-:origin: octopus
-:url: https://console.inductiva.ai/editor?simulator_name=octopus
-```
+::pythoneditor
+---
+origin: octopus
+text: Try our online Python Editor. Run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=octopus
+---
+::
 
 ## What You'll Find Here
 

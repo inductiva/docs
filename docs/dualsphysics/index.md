@@ -10,10 +10,15 @@ Your resource hub for all things DualSPHysics at Inductiva. Whether you're just 
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check!
 
-```{python_editor}
-:origin: dualsphysics
-:url: https://console.inductiva.ai/editor?simulator_name=dualsphysics
-```
+::pythoneditor
+---
+origin: dualsphysics
+text: Try our online Python Editor. Run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=dualsphysics
+---
+::
+
 
 ## What You'll Find Here
 

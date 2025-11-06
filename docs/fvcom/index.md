@@ -10,10 +10,14 @@ Your resource hub for all things FVCOM at Inductiva. Whether you're just startin
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check! 
 
-```{python_editor}
-:origin: fvcom
-:url: https://console.inductiva.ai/editor?simulator_name=fvcom
-```
+::pythoneditor
+---
+origin: fvcom
+text: Try our online Python Editor. Run simulations in your browser
+buttonText: Start Simulating Now
+url: https://console.inductiva.ai/editor?simulator_name=fvcom
+---
+::
 
 ## What You'll Find Here
 

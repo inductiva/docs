@@ -13,7 +13,7 @@ Inductiva simplifies research by making high-performance computing more accessib
 ::pythoneditor
 ---
 origin: freefem
-text: Try our online Python Editor – run simulations in your browser
+text: Try our online Python Editor. Run simulations in your browser
 buttonText: Start Simulating Now
 url: https://console.inductiva.ai/editor?simulator_name=freefem
 ---
