@@ -1,9 +1,10 @@
 ---
 title: The Inductiva Guide to HEC-RAS
-description: ""
+description: Learn to run and scale HEC-RAS simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for river & coastal modeling.
 seo:
- title: ""
- description: ""
+ title: Run HEC-RAS Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale HEC-RAS simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for river & coastal modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things HEC-RAS at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your HEC-RAS simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

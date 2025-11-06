@@ -1,9 +1,10 @@
 ---
 title: The Inductiva Guide to OpenTelemac
-description: ""
+description: Learn to run and scale OpenTelemac simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
 seo:
- title: ""
- description: ""
+ title: Run OpenTelemac Simulations - Tutorials and Benchmarks
+ description: Learn to run and scale OpenTelemac simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
+ ogImage: 'public/inductiva-cover.png'
 ---
 
 Your resource hub for all things OpenTelemac at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your OpenTelemac simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
@@ -22,7 +23,7 @@ url: https://console.inductiva.ai/editor?simulator_name=opentelemac
 ## What You'll Find Here
 
 ### Tutorials
-Step-by-step guides to help you learn how to run OpenSees through the Inductiva API. From getting started to advanced tutorials, we have you covered.
+Step-by-step guides to help you learn how to run OpenTelemac through the Inductiva API. From getting started to advanced tutorials, we have you covered.
 
 ### Tutorials
 Step-by-step guides to help you learn how to run OpenTelemac through the Inductiva API. From getting started to advanced tutorials, we have you covered.

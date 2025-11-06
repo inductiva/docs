@@ -1,9 +1,9 @@
 ---
 title: NWChem Benchmark - C240 6-31G Scaling on the Cloud
-description: ""
+description: Explore NWChem performance benchmarks on the Inductiva.AI Cloud HPC platform. Compare scalability and cost efficiency across configurations.
 seo:
- title: ""
- description: ""
+ title: NWChem Benchmarks on Inductiva.AI
+ description: Explore NWChem performance benchmarks on the Inductiva.AI Cloud HPC platform. Compare scalability and cost efficiency across configurations.
 ---
 
 <p align="right">
