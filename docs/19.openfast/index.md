@@ -4,7 +4,7 @@ description: Learn to run and scale OpenFAST simulations on the Inductiva.AI Clo
 seo:
  title: Run OpenFAST Simulations - Tutorials and Benchmarks
  description: Learn to run and scale OpenFAST simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for wind turbine modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things OpenFAST at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to **easily run hundreds of OpenFAST simulations simultaneously** and slash your development time to a fraction.

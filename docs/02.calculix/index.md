@@ -4,7 +4,7 @@ description: Learn to run and scale CalculiX simulations on the Inductiva.AI Clo
 seo:
  title: Run CalculiX Simulations - Tutorials and Benchmarks
  description: Learn to run and scale CalculiX simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks to build efficient FEA workflows.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things CalculiX at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your CalculiX simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

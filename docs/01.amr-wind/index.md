@@ -4,7 +4,7 @@ description: ""
 seo:
  title: Run AMR-Wind Simulations - Tutorials and Benchmarks
  description: Learn to run and scale AMR-Wind simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks to build efficient CFD workflows.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things AMR-Wind at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your AMR-Wind simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

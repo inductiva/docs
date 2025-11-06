@@ -4,7 +4,7 @@ description: Learn to run and scale CM1 simulations on the Inductiva.AI Cloud HP
 seo:
  title: Run CM1 Simulations - Tutorials and Benchmarks
  description: Learn to run and scale CM1 simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for weather modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things CM1 at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your CM1 simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
