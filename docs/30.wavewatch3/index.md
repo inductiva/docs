@@ -4,7 +4,7 @@ description: Learn to run and scale WAVEWATCH III simulations on the Inductiva.A
 seo:
  title: Run WAVEWATCH III Simulations - Tutorials and Benchmarks
  description: Learn to run and scale WAVEWATCH III simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for ocean wave modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things WAVEWATCH III at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your WAVEWATCH III simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

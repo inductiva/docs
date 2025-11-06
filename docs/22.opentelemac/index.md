@@ -4,7 +4,7 @@ description: Learn to run and scale OpenTelemac simulations on the Inductiva.AI 
 seo:
  title: Run OpenTelemac Simulations - Tutorials and Benchmarks
  description: Learn to run and scale OpenTelemac simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things OpenTelemac at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your OpenTelemac simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.

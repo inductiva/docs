@@ -4,7 +4,7 @@ description: Learn to run and scale GROMACS simulations on the Inductiva.AI Clou
 seo:
  title: Run GROMACS Simulations - Tutorials and Benchmarks
  description: Learn to run and scale GROMACS simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for molecular dynamics & materials modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things GROMACS at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your GROMACS simulations by sending them to Cloud machines with hundreds of cores or to top-tier Cloud GPUs.

@@ -4,7 +4,7 @@ description: Learn to run and scale CP2K simulations on the Inductiva.AI Cloud H
 seo:
  title: Run CP2K Simulations - Tutorials and Benchmarks
  description: Learn to run and scale CP2K simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for quantum & molecular modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things CP2K at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to speed up your CP2K simulations by sending them to Cloud machines with hundreds of cores or to top-tier Cloud GPUs.

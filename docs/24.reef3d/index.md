@@ -4,7 +4,7 @@ description: Learn to run and scale REEF3D simulations on the Inductiva.AI Cloud
 seo:
  title: Run REEF3D Simulations - Tutorials and Benchmarks
  description: Learn to run and scale REEF3D simulations on the Inductiva.AI Cloud HPC platform. Explore tutorials and benchmarks for coastal & ocean modeling.
- ogImage: 'public/inductiva-cover.png'
+ ogImage: 'inductiva-cover.png'
 ---
 
 Your resource hub for all things REEF3D at Inductiva. Whether you're just starting out or an experienced user, you'll find the resources you need to seamlessly run your REEF3D simulations on Cloud machines equipped with hundreds of cores and terabytes of disk space.
