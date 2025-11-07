@@ -6,7 +6,7 @@ seo:
  description: “”
 ---
 
-After running the 400 simulations in [Generate the Dataset](../../tutorials/synthetic-data-for-piml/sections/section4), it’s time to download and visualize the results.
+After running the 400 simulations in [Generate the Dataset](/guides/splishsplash/tutorials/synthetic-data-for-piml/section4), it’s time to download and visualize the results.
 
 To simplify the process, we’ve provided a few helper scripts.
 
