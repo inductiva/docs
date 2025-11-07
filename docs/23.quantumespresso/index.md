@@ -20,7 +20,6 @@ url: https://console.inductiva.ai/editor?simulator_name=quantum_espresso
 ---
 ::
 
-
 ## What You'll Find Here
 
 ### Tutorials
