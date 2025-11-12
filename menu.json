@@ -60,6 +60,10 @@
           "path": "fvcom"
         },
         {
+          "title": "gprMAX",
+          "path": "gprmax"
+        },
+        {
           "title": "GROMACS",
           "path": "gromacs"
         },
