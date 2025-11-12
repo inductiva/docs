@@ -19,7 +19,7 @@ BYOC (Bring Your Own Cloud) allows you to launch and manage compute machines dir
 
 ### Is BYOC secure?
 
-Yes, BYOC is designed with security as a priority:
+BYOC is designed with security as a priority:
 
 - **Your GCP credentials never leave your local machine** - they are never sent to Inductiva
 - **Inductiva never has access to your GCP credentials** - all GCP operations are performed locally using your authenticated gcloud CLI
@@ -165,7 +165,7 @@ mg = inductiva.resources.MachineGroup(
 
 ### Does Inductiva charge for BYOC?
 
-Inductiva doesn't charge for the compute resources (since they run in your account), but standard Inductiva usage fees may still apply for simulation services.
+Inductiva doesn't charge for the compute resources (since they run in your account), but standard Inductiva usage fees still apply for simulation services.
 
 ### Why does cost reporting show 0?
 
@@ -219,12 +219,6 @@ This is a current limitation in the alpha version. Cost calculations always repo
 
 **Coming soon**: GCP storage integration will be available in future releases.
 
-### How do I handle large datasets?
-
-Since only Inductiva storage is currently supported, you'll need to:
-1. Upload your data to Inductiva storage first
-2. Use the data in your simulations
-3. Download results back to Inductiva storage
 
 ## CLI Usage
 
@@ -270,12 +264,8 @@ inductiva task-runner launch short-lived-machine \
 
 - **GCP storage integration** for direct access to your GCP storage buckets
 - **Multi-machine scaling** within single machine groups
-- **Improved cost reporting** and billing integration
+- **Improved cost reporting** 
 - **Additional cloud providers** beyond GCP
-
-### Is BYOC production-ready?
-
-BYOC is currently in **alpha release**. While it's functional and secure, it has the limitations mentioned above. We recommend using it for development and testing, and monitoring the release notes for production-ready features.
 
 ::docsbannersmall
 ::
