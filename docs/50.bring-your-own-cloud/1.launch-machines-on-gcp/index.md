@@ -2,7 +2,7 @@
 title: Launching Machines on Your Own GCP Account
 description: ""
 navigation:
-  show: true
+  show: false
 seo:
  title: “”
  description: “”
