@@ -132,6 +132,10 @@
           "path": "swash"
         },
         {
+          "title": "SWMM",
+          "path": "swmm"
+        },
+        {
           "title": "WAVEWATCH III",
           "path": "wavewatch3"
         },
