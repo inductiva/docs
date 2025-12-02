@@ -11,15 +11,6 @@ Your resource hub for all things CP2K at Inductiva. Whether you're just starting
 
 Inductiva simplifies research by making high-performance computing more accessible and cost-effective. Use the power of the Cloud to **scale your simulations** and **finish your projects sooner**, while keeping your costs in check!
 
-::pythoneditor
----
-origin: cp2k
-text: Try our online Python Editor. Run simulations in your browser.
-buttonText: Start Simulating Now
-url: https://console.inductiva.ai/editor?simulator_name=cp2k
----
-::
-
 ## What You'll Find Here
 
 ### Tutorials
