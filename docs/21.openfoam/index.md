@@ -26,10 +26,6 @@ Step-by-step guides to help you learn how to run OpenFOAM through the Inductiva 
     - [Run occDrivAerStaticMesh from the OpenFOAM HPC Benchmark Suite](/guides/openfoam/tutorials/run-occdrivaerstaticmesh-case/)
     - [Generate a Wind Tunnel Simulation Dataset](/guides/openfoam/tutorials/generate-wind-tunnel-dataset/)
 
-* **Webinars**
-    - [OpenFOAM on Inductiva](/guides/openfoam/webinars/openfoam-video-tutorial)
-    - [Generating a CFD Dataset](/guides/openfoam/webinars/openfoam-cfd-dataset)
-
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how OpenFOAM performs on different hardware configurations.
 
