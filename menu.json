@@ -60,10 +60,6 @@
           "path": "fvcom"
         },
         {
-          "title": "gprMax",
-          "path": "gprmax"
-        },
-        {
           "title": "GROMACS",
           "path": "gromacs"
         },
@@ -130,10 +126,6 @@
         {
           "title": "SWASH",
           "path": "swash"
-        },
-        {
-          "title": "SWMM",
-          "path": "swmm"
         },
         {
           "title": "WAVEWATCH III",
@@ -235,14 +227,41 @@
       ]
     },
     {
-      "title": "Release Notes",
+      "title": "CLI & Python Client",
       "children": [
         {
-          "title": "Releases",
+          "title": "CLI Reference",
+          "path": "cli-reference",
+          "_customButton": {
+            "label": "CLI Reference",
+            "to": "",
+            "newTab": true,
+            "isExternalDocs": true,
+            "docsType": "cli"
+          }
+        },
+        {
+          "title": "Python Client Reference",
+          "path": "api-reference",
+          "_customButton": {
+            "label": "Python Client Reference",
+            "to": "",
+            "newTab": true,
+            "isExternalDocs": true,
+            "docsType": "api"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Releases",
+      "groupWith": "CLI & Python Client",
+      "children": [
+        {
+          "title": "Release Notes",
           "path": "release-notes"
         }
-      ],
-      "groupWith": "Expand"
-  }
+      ]
+    }
   ]
 }
