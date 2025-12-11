@@ -60,6 +60,10 @@
           "path": "fvcom"
         },
         {
+          "title": "gprMax",
+          "path": "gprmax"
+        },
+        {
           "title": "GROMACS",
           "path": "gromacs"
         },
@@ -126,6 +130,10 @@
         {
           "title": "SWASH",
           "path": "swash"
+        },
+        {
+          "title": "SWMM",
+          "path": "swmm"
         },
         {
           "title": "WAVEWATCH III",
