@@ -25,6 +25,7 @@ Step-by-step guides to help you learn how to run Delft3D through the Inductiva A
 * **Getting Started**
     - [Test Your Inductiva Setup](/guides/delft3d/tutorials/setup-test)
     - [Run Your First Simulation](/guides/delft3d/tutorials/quick-start)
+    - [Run a Delft3D FM Simulation](/guides/delft3d/tutorials/quick-start)
 
 * **Advanced Tutorials**
     - [Run Delft3D with FLOW-WAVE coupling](/guides/delft3d/tutorials/flow-wave-coupling)
