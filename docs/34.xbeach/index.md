@@ -23,9 +23,6 @@ Step-by-step guides to help you learn how to run XBeach through the Inductiva AP
 * **Advanced Tutorials**
     - [Run the Galveston Island Beach and Dune Simulation](/guides/xbeach/tutorials/run-galveston-island-example)
     - [XBeach Visualizations with ParaView](/guides/xbeach/visualization/paraview-for-visualization)
-
-* **Webinars**
-    - [XBeach on Inductiva](/guides/xbeach/watch-and-learn/xbeach-video-tutorial)
     
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how XBeach performs on different hardware configurations.
