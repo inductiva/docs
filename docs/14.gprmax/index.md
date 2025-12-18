@@ -20,6 +20,9 @@ Step-by-step guides to help you learn how to run gprMax through the Inductiva AP
     - [Test Your Inductiva Setup](/guides/gprmax/tutorials/setup-test)
     - [Run Your First Simulation](/guides/gprmax/tutorials/quick-start)
 
+* **Advanced Tutorials**
+    - [Scale gprMax with MPI](/guides/gprmax/tutorials/scaling-with-mpi)
+
 ### Benchmarks
 A trusted guide to selecting the right simulation hardware for your needs. These benchmarks, conducted using the Inductiva platform, provide insight into how gprMax performs on different hardware configurations.
 
